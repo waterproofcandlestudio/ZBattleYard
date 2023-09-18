@@ -1,0 +1,48 @@
+{
+    "SortType": 2,
+    "SceneDisplay": 0,
+    "DisplayParentsCount": 1,
+    "DisplayRemoveFolders": [
+        "Assets"
+    ],
+    "ListCountLimit": 64,
+    "SpaceBetweenGroups": 6,
+    "SpaceBetweenGroupsPinned": 0,
+    "Exclude": [
+        "Packages/com.unity.render-pipelines.universal/Editor/SceneTemplates/Basic.unity|e026d555eae824f65922633f37a14385",
+        "Packages/com.unity.render-pipelines.universal/Editor/SceneTemplates/Standard.unity|5cae0d87369a2405eaa962b8d920b947"
+    ],
+    "ColorizePatterns": [
+        {
+            "Patterns": "Assets/_Scenes/MainMenu.unity|2593382b5eecdbe4a978bb9aff56c46b",
+            "BackgroundColor": {
+                "r": 0.546999990940094,
+                "g": 0.2800000011920929,
+                "b": 0.4887999892234802,
+                "a": 1.0
+            },
+            "TextColor": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            }
+        },
+        {
+            "Patterns": "Assets/_Scenes/TrainStation.unity|7f808435bb954ac47ae0d030c647b6ee",
+            "BackgroundColor": {
+                "r": 0.699999988079071,
+                "g": 0.37450000643730166,
+                "b": 0.37450000643730166,
+                "a": 1.0
+            },
+            "TextColor": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            }
+        }
+    ],
+    "SplitterY": 48.0
+}

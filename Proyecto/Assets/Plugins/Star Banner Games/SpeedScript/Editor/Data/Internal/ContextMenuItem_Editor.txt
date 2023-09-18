@@ -1,0 +1,9 @@
+#region EDITOR TEMPLATES
+
+		//MENU: #NAME#
+		[MenuItem(GlobalPaths.TEMPLATE_EDITOR_MENUPATH + "#DPNAME#", false, ScriptBuilder.TEMPLATE_CUSTOMEDITOR_MENU_PRIORITY)]
+		public static void Create#NAME#(MenuCommand cmd)
+		{
+			ScriptBuilder.CreateScriptFromCustomTemplate("Template_Editor_#NAME#", "New#NAME#");
+		}
+		//END: #NAME#

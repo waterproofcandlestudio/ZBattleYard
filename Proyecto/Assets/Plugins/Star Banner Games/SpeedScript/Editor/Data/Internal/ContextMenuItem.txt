@@ -1,0 +1,9 @@
+#region TEMPLATES
+		
+		//MENU: #NAME#
+		[MenuItem(GlobalPaths.TEMPLATE_MENUPATH + "#DPNAME#", false, ScriptBuilder.TEMPLATE_CUSTOM_MENU_PRIORITY)]
+		public static void Create#NAME#(MenuCommand cmd)
+		{
+			ScriptBuilder.CreateScriptFromCustomTemplate("Template_#NAME#", "New#NAME#");
+		}
+		//END: #NAME#

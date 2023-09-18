@@ -1,0 +1,95 @@
+trackSelection = true
+fetchPreview = true
+defaultFlags = 0
+keepOpen = false
+queryFolder = "Assets"
+onBoardingDoNotAskAgain = true
+showPackageIndexes = false
+showStatusBar = false
+scopes = {
+	"last_search.310DEAF1" = "input syste"
+	"OpenInspectorPreview.310DEAF1" = "0"
+	"currentGroup.310DEAF1" = "all"
+	"last_search.D379D912" = "input system"
+	"OpenInspectorPreview.D379D912" = "0"
+	"currentGroup.D379D912" = "all"
+	"picker_window_position_offset.74AD8FDB" = "586,4;232,8;320;550,4"
+	"picker_search_text.74AD8FDB" = "defa d "
+	"last_search.74AD8FDB" = "defa d "
+	"OpenInspectorPreview.74AD8FDB" = "0"
+	"currentGroup.74AD8FDB" = "all"
+	"last_search.DE949528" = "filltex"
+	"OpenInspectorPreview.DE949528" = "0"
+	"currentGroup.DE949528" = "all"
+	"last_search.DD5CDD96" = ""
+	"OpenInspectorPreview.DD5CDD96" = "0"
+	"currentGroup.DD5CDD96" = "scene"
+	"last_search.2138236A" = "*.fbx"
+	"OpenInspectorPreview.2138236A" = "0"
+	"currentGroup.2138236A" = "asset"
+}
+providers = {
+	adb = {
+		active = false
+		priority = 2500
+		defaultAction = null
+	}
+	asset = {
+		active = true
+		priority = 25
+		defaultAction = null
+	}
+	store = {
+		active = true
+		priority = 100
+		defaultAction = null
+	}
+	find = {
+		active = true
+		priority = 25
+		defaultAction = null
+	}
+	log = {
+		active = false
+		priority = 210
+		defaultAction = null
+	}
+	packages = {
+		active = true
+		priority = 90
+		defaultAction = null
+	}
+	performance = {
+		active = false
+		priority = 100
+		defaultAction = null
+	}
+	scene = {
+		active = true
+		priority = 50
+		defaultAction = null
+	}
+}
+objectSelectors = {
+}
+recentSearches = [
+	"ti"
+	"p"
+	"n"
+	"y"
+	"fo"
+	"i"
+	"s"
+	"Smart Inspector"
+	"in"
+]
+searchItemFavorites = [
+]
+savedSearchesSortOrder = 0
+showSavedSearchPanel = false
+expandedQueries = [
+]
+queryBuilder = false
+ignoredProperties = "id;name;classname;imagecontentshash"
+helperWidgetCurrentArea = "all"
+disabledIndexers = ""

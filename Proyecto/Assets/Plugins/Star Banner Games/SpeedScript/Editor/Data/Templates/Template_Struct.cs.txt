@@ -1,0 +1,16 @@
+using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+
+namespace #NAMESPACE#
+{
+	public struct #SCRIPTNAME#
+	{
+		private int _num;
+	
+		public #SCRIPTNAME#(int num)
+		{
+			_num = num;
+		}
+	}
+}

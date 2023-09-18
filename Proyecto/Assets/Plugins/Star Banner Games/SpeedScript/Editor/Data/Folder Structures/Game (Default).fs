@@ -1,0 +1,12 @@
+Art/Sprites
+Art/Textures
+Art/Models
+Art/Materials
+Art/Animations
+Art/Fonts
+Audio/SFX
+Audio/Music
+Prefabs
+Scenes
+Scripts
+Shaders

@@ -1,0 +1,14 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/_Scenes/MainMenu.unity
+    guid: 2593382b5eecdbe4a978bb9aff56c46b
+  - enabled: 1
+    path: Assets/_Scenes/TrainStation.unity
+    guid: 7f808435bb954ac47ae0d030c647b6ee
+  m_configObjects: {}

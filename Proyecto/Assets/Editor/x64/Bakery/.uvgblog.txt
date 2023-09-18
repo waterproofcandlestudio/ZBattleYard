@@ -1,0 +1,1407 @@
+2023-3-31
+Rendering UV GBuffer for ScenarioMesures_Test_LM0 51
+RGBA32F...RGBA8...RGBA8_SRGB...RGBA16F...states...
+Rendering UV normal...
+Rendering faceted UV normal...
+Rendering UV pos...
+Rendering smooth UV pos...
+Rendering UV GBuffer for ScenarioMesures_Test_LMA1 51
+RGBA32F...RGBA8...RGBA8_SRGB...RGBA16F...states...
+Rendering UV normal...
+Rendering faceted UV normal...
+Rendering UV pos...
+Rendering smooth UV pos...
+Rendering UV GBuffer for ScenarioMesures_Test_LMA2 51
+RGBA32F...RGBA8...RGBA8_SRGB...RGBA16F...states...
+Rendering UV normal...
+Rendering faceted UV normal...
+Rendering UV pos...
+Rendering smooth UV pos...
+Rendering UV GBuffer for ScenarioMesures_Test_LMA3 51
+RGBA32F...RGBA8...RGBA8_SRGB...RGBA16F...states...
+Rendering UV normal...
+Rendering faceted UV normal...
+Rendering UV pos...
+Rendering smooth UV pos...
+Rendering UV GBuffer for ScenarioMesures_Test_LMA4 51
+RGBA32F...RGBA8...RGBA8_SRGB...RGBA16F...states...
+Rendering UV normal...
+Rendering faceted UV normal...
+Rendering UV pos...
+Rendering smooth UV pos...
+Rendering UV GBuffer for ScenarioMesures_Test_LMA5 51
+RGBA32F...RGBA8...RGBA8_SRGB...RGBA16F...states...
+Rendering UV normal...
+Rendering faceted UV normal...
+Rendering UV pos...
+Rendering smooth UV pos...
+Done
+Done
+Running ftrace fixpos12 "C:\Users\mrgal\AppData\Local\Temp\frender" "uvpos_ScenarioMesures_Test_LMA2.lz4" 2 0 2 0
+Running ftrace fixpos12 "C:\Users\mrgal\AppData\Local\Temp\frender" "uvpos_ScenarioMesures_Test_LM0.lz4" 2 0 0 0
+Running ftrace fixpos12 "C:\Users\mrgal\AppData\Local\Temp\frender" "uvpos_ScenarioMesures_Test_LMA3.lz4" 2 0 3 0
+Running ftrace fixpos12 "C:\Users\mrgal\AppData\Local\Temp\frender" "uvpos_ScenarioMesures_Test_LMA5.lz4" 2 0 5 0
+Running ftrace fixpos12 "C:\Users\mrgal\AppData\Local\Temp\frender" "uvpos_ScenarioMesures_Test_LMA4.lz4" 2 0 4 0
+Running ftrace fixpos12 "C:\Users\mrgal\AppData\Local\Temp\frender" "uvpos_ScenarioMesures_Test_LMA1.lz4" 2 0 1 0
+Running ftrace addmul "C:\Users\mrgal\AppData\Local\Temp\frender" "ScenarioMesures_Test_LMA2" 4 0 2 comp_2.bin
+Running ftrace addmul "C:\Users\mrgal\AppData\Local\Temp\frender" "ScenarioMesures_Test_LM0" 4 0 0 comp_0.bin
+Running ftrace addmul "C:\Users\mrgal\AppData\Local\Temp\frender" "ScenarioMesures_Test_LMA3" 4 0 3 comp_3.bin
+Running ftrace addmul "C:\Users\mrgal\AppData\Local\Temp\frender" "ScenarioMesures_Test_LMA5" 4 0 5 comp_5.bin
+Running ftrace addmul "C:\Users\mrgal\AppData\Local\Temp\frender" "ScenarioMesures_Test_LMA4" 4 0 4 comp_4.bin
+Running ftrace addmul "C:\Users\mrgal\AppData\Local\Temp\frender" "ScenarioMesures_Test_LMA1" 4 0 1 comp_1.bin
+Running ftrace texgi "C:\Users\mrgal\AppData\Local\Temp\frender" "ScenarioMesures_Test_LMA2_diffuse" 4 16 2 "gi_ScenarioMesures_Test_LMA20.bin" "ScenarioMesures_Test_LMA2_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\mrgal\AppData\Local\Temp\frender" "ScenarioMesures_Test_LM0_diffuse" 4 16 0 "gi_ScenarioMesures_Test_LM00.bin" "ScenarioMesures_Test_LM0_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\mrgal\AppData\Local\Temp\frender" "ScenarioMesures_Test_LMA3_diffuse" 4 16 3 "gi_ScenarioMesures_Test_LMA30.bin" "ScenarioMesures_Test_LMA3_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\mrgal\AppData\Local\Temp\frender" "ScenarioMesures_Test_LMA5_diffuse" 4 16 5 "gi_ScenarioMesures_Test_LMA50.bin" "ScenarioMesures_Test_LMA5_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\mrgal\AppData\Local\Temp\frender" "ScenarioMesures_Test_LMA4_diffuse" 4 16 4 "gi_ScenarioMesures_Test_LMA40.bin" "ScenarioMesures_Test_LMA4_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\mrgal\AppData\Local\Temp\frender" "ScenarioMesures_Test_LMA1_diffuse" 4 16 1 "gi_ScenarioMesures_Test_LMA10.bin" "ScenarioMesures_Test_LMA1_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\mrgal\AppData\Local\Temp\frender" "ScenarioMesures_Test_LMA2_diffuse" 4 16 2 "gi_ScenarioMesures_Test_LMA21.bin" "ScenarioMesures_Test_LMA2_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\mrgal\AppData\Local\Temp\frender" "ScenarioMesures_Test_LM0_diffuse" 4 16 0 "gi_ScenarioMesures_Test_LM01.bin" "ScenarioMesures_Test_LM0_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\mrgal\AppData\Local\Temp\frender" "ScenarioMesures_Test_LMA3_diffuse" 4 16 3 "gi_ScenarioMesures_Test_LMA31.bin" "ScenarioMesures_Test_LMA3_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\mrgal\AppData\Local\Temp\frender" "ScenarioMesures_Test_LMA5_diffuse" 4 16 5 "gi_ScenarioMesures_Test_LMA51.bin" "ScenarioMesures_Test_LMA5_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\mrgal\AppData\Local\Temp\frender" "ScenarioMesures_Test_LMA4_diffuse" 4 16 4 "gi_ScenarioMesures_Test_LMA41.bin" "ScenarioMesures_Test_LMA4_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\mrgal\AppData\Local\Temp\frender" "ScenarioMesures_Test_LMA1_diffuse" 4 16 1 "gi_ScenarioMesures_Test_LMA11.bin" "ScenarioMesures_Test_LMA1_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\mrgal\AppData\Local\Temp\frender" "ScenarioMesures_Test_LMA2_diffuse" 4 16 2 "gi_ScenarioMesures_Test_LMA22.bin" "ScenarioMesures_Test_LMA2_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\mrgal\AppData\Local\Temp\frender" "ScenarioMesures_Test_LM0_diffuse" 4 16 0 "gi_ScenarioMesures_Test_LM02.bin" "ScenarioMesures_Test_LM0_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\mrgal\AppData\Local\Temp\frender" "ScenarioMesures_Test_LMA3_diffuse" 4 16 3 "gi_ScenarioMesures_Test_LMA32.bin" "ScenarioMesures_Test_LMA3_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\mrgal\AppData\Local\Temp\frender" "ScenarioMesures_Test_LMA5_diffuse" 4 16 5 "gi_ScenarioMesures_Test_LMA52.bin" "ScenarioMesures_Test_LMA5_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\mrgal\AppData\Local\Temp\frender" "ScenarioMesures_Test_LMA4_diffuse" 4 16 4 "gi_ScenarioMesures_Test_LMA42.bin" "ScenarioMesures_Test_LMA4_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\mrgal\AppData\Local\Temp\frender" "ScenarioMesures_Test_LMA1_diffuse" 4 16 1 "gi_ScenarioMesures_Test_LMA12.bin" "ScenarioMesures_Test_LMA1_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\mrgal\AppData\Local\Temp\frender" "ScenarioMesures_Test_LMA2_diffuse" 4 16 2 "gi_ScenarioMesures_Test_LMA23.bin" "ScenarioMesures_Test_LMA2_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\mrgal\AppData\Local\Temp\frender" "ScenarioMesures_Test_LM0_diffuse" 4 16 0 "gi_ScenarioMesures_Test_LM03.bin" "ScenarioMesures_Test_LM0_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\mrgal\AppData\Local\Temp\frender" "ScenarioMesures_Test_LMA3_diffuse" 4 16 3 "gi_ScenarioMesures_Test_LMA33.bin" "ScenarioMesures_Test_LMA3_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\mrgal\AppData\Local\Temp\frender" "ScenarioMesures_Test_LMA5_diffuse" 4 16 5 "gi_ScenarioMesures_Test_LMA53.bin" "ScenarioMesures_Test_LMA5_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\mrgal\AppData\Local\Temp\frender" "ScenarioMesures_Test_LMA4_diffuse" 4 16 4 "gi_ScenarioMesures_Test_LMA43.bin" "ScenarioMesures_Test_LMA4_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\mrgal\AppData\Local\Temp\frender" "ScenarioMesures_Test_LMA1_diffuse" 4 16 1 "gi_ScenarioMesures_Test_LMA13.bin" "ScenarioMesures_Test_LMA1_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\mrgal\AppData\Local\Temp\frender" "ScenarioMesures_Test_LMA2_final" 4 16 2 "gi_ScenarioMesures_Test_LMA24.bin" "ScenarioMesures_Test_LMA2_lights_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\mrgal\AppData\Local\Temp\frender" "ScenarioMesures_Test_LM0_final" 4 16 0 "gi_ScenarioMesures_Test_LM04.bin" "ScenarioMesures_Test_LM0_lights_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\mrgal\AppData\Local\Temp\frender" "ScenarioMesures_Test_LMA3_final" 4 16 3 "gi_ScenarioMesures_Test_LMA34.bin" "ScenarioMesures_Test_LMA3_lights_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\mrgal\AppData\Local\Temp\frender" "ScenarioMesures_Test_LMA5_final" 4 16 5 "gi_ScenarioMesures_Test_LMA54.bin" "ScenarioMesures_Test_LMA5_lights_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\mrgal\AppData\Local\Temp\frender" "ScenarioMesures_Test_LMA4_final" 4 16 4 "gi_ScenarioMesures_Test_LMA44.bin" "ScenarioMesures_Test_LMA4_lights_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\mrgal\AppData\Local\Temp\frender" "ScenarioMesures_Test_LMA1_final" 4 16 1 "gi_ScenarioMesures_Test_LMA14.bin" "ScenarioMesures_Test_LMA1_lights_HDR.lz4" vbTraceTex.bin
+Running denoiser "C:\Users\mrgal\AppData\Local\Temp\frender/ScenarioMesures_Test_LMA2_final_HDR.lz4" "C:\Users\mrgal\AppData\Local\Temp\frender/ScenarioMesures_Test_LMA2_final_HDR.lz4" 4096 0
+Running seamfixer "C:\Users\mrgal\AppData\Local\Temp\frender" "2" "ScenarioMesures_Test_LMA2_final_HDR.lz4"
+Running denoiser "C:\Users\mrgal\AppData\Local\Temp\frender/ScenarioMesures_Test_LM0_final_HDR.lz4" "C:\Users\mrgal\AppData\Local\Temp\frender/ScenarioMesures_Test_LM0_final_HDR.lz4" 4096 0
+Running seamfixer "C:\Users\mrgal\AppData\Local\Temp\frender" "0" "ScenarioMesures_Test_LM0_final_HDR.lz4"
+Running denoiser "C:\Users\mrgal\AppData\Local\Temp\frender/ScenarioMesures_Test_LMA3_final_HDR.lz4" "C:\Users\mrgal\AppData\Local\Temp\frender/ScenarioMesures_Test_LMA3_final_HDR.lz4" 4096 0
+Running seamfixer "C:\Users\mrgal\AppData\Local\Temp\frender" "3" "ScenarioMesures_Test_LMA3_final_HDR.lz4"
+Running denoiser "C:\Users\mrgal\AppData\Local\Temp\frender/ScenarioMesures_Test_LMA5_final_HDR.lz4" "C:\Users\mrgal\AppData\Local\Temp\frender/ScenarioMesures_Test_LMA5_final_HDR.lz4" 1024 0
+Running seamfixer "C:\Users\mrgal\AppData\Local\Temp\frender" "5" "ScenarioMesures_Test_LMA5_final_HDR.lz4"
+Running denoiser "C:\Users\mrgal\AppData\Local\Temp\frender/ScenarioMesures_Test_LMA4_final_HDR.lz4" "C:\Users\mrgal\AppData\Local\Temp\frender/ScenarioMesures_Test_LMA4_final_HDR.lz4" 4096 0
+Running seamfixer "C:\Users\mrgal\AppData\Local\Temp\frender" "4" "ScenarioMesures_Test_LMA4_final_HDR.lz4"
+Running denoiser "C:\Users\mrgal\AppData\Local\Temp\frender/ScenarioMesures_Test_LMA1_final_HDR.lz4" "C:\Users\mrgal\AppData\Local\Temp\frender/ScenarioMesures_Test_LMA1_final_HDR.lz4" 4096 0
+Running seamfixer "C:\Users\mrgal\AppData\Local\Temp\frender" "1" "ScenarioMesures_Test_LMA1_final_HDR.lz4"
+Running halffloat2hdr "C:\Users\mrgal\AppData\Local\Temp\frender/ScenarioMesures_Test_LMA2_final_HDR.lz4" "C:/Escritorio/Trabajo/ProyectosProfesionales/Videojuegos/Unity/Proyecto/Assets/BakeryLightmaps/ScenarioMesures_Test_LMA2_final.hdr"
+Running halffloat2hdr "C:\Users\mrgal\AppData\Local\Temp\frender/ScenarioMesures_Test_LM0_final_HDR.lz4" "C:/Escritorio/Trabajo/ProyectosProfesionales/Videojuegos/Unity/Proyecto/Assets/BakeryLightmaps/ScenarioMesures_Test_LM0_final.hdr"
+Running halffloat2hdr "C:\Users\mrgal\AppData\Local\Temp\frender/ScenarioMesures_Test_LMA3_final_HDR.lz4" "C:/Escritorio/Trabajo/ProyectosProfesionales/Videojuegos/Unity/Proyecto/Assets/BakeryLightmaps/ScenarioMesures_Test_LMA3_final.hdr"
+Running halffloat2hdr "C:\Users\mrgal\AppData\Local\Temp\frender/ScenarioMesures_Test_LMA5_final_HDR.lz4" "C:/Escritorio/Trabajo/ProyectosProfesionales/Videojuegos/Unity/Proyecto/Assets/BakeryLightmaps/ScenarioMesures_Test_LMA5_final.hdr"
+Running halffloat2hdr "C:\Users\mrgal\AppData\Local\Temp\frender/ScenarioMesures_Test_LMA4_final_HDR.lz4" "C:/Escritorio/Trabajo/ProyectosProfesionales/Videojuegos/Unity/Proyecto/Assets/BakeryLightmaps/ScenarioMesures_Test_LMA4_final.hdr"
+Running halffloat2hdr "C:\Users\mrgal\AppData\Local\Temp\frender/ScenarioMesures_Test_LMA1_final_HDR.lz4" "C:/Escritorio/Trabajo/ProyectosProfesionales/Videojuegos/Unity/Proyecto/Assets/BakeryLightmaps/ScenarioMesures_Test_LMA1_final.hdr"
+Loaded vertex shader: quad.vso
+Loaded pixel shader: skyOutput.pso
+Loaded pixel shader: cookieOutput.pso
+initShaders done
+initScene done
+Done
+Rendering UV GBuffer for ScenarioMesures_Test_LM0 51
+RGBA32F...RGBA8...RGBA8_SRGB...RGBA16F...states...
+Rendering UV normal...
+Rendering faceted UV normal...
+Rendering UV pos...
+Rendering smooth UV pos...
+Rendering UV GBuffer for ScenarioMesures_Test_LMA1 51
+RGBA32F...RGBA8...RGBA8_SRGB...RGBA16F...states...
+Rendering UV normal...
+Rendering faceted UV normal...
+Rendering UV pos...
+Rendering smooth UV pos...
+Rendering UV GBuffer for ScenarioMesures_Test_LMA2 51
+RGBA32F...RGBA8...RGBA8_SRGB...RGBA16F...states...
+Rendering UV normal...
+Rendering faceted UV normal...
+Rendering UV pos...
+Rendering smooth UV pos...
+Rendering UV GBuffer for ScenarioMesures_Test_LMA3 51
+RGBA32F...RGBA8...RGBA8_SRGB...RGBA16F...states...
+Rendering UV normal...
+Rendering faceted UV normal...
+Rendering UV pos...
+Rendering smooth UV pos...
+Rendering UV GBuffer for ScenarioMesures_Test_LMA4 51
+RGBA32F...RGBA8...RGBA8_SRGB...RGBA16F...states...
+Rendering UV normal...
+Rendering faceted UV normal...
+Rendering UV pos...
+Rendering smooth UV pos...
+Rendering UV GBuffer for ScenarioMesures_Test_LMA5 51
+RGBA32F...RGBA8...RGBA8_SRGB...RGBA16F...states...
+Rendering UV normal...
+Rendering faceted UV normal...
+Rendering UV pos...
+Rendering smooth UV pos...
+Done
+Done
+Running ftrace fixpos12 "C:\Users\mrgal\AppData\Local\Temp\frender" "uvpos_ScenarioMesures_Test_LMA2.lz4" 2 0 2 0
+Running ftrace fixpos12 "C:\Users\mrgal\AppData\Local\Temp\frender" "uvpos_ScenarioMesures_Test_LMA4.lz4" 2 0 4 0
+Running ftrace fixpos12 "C:\Users\mrgal\AppData\Local\Temp\frender" "uvpos_ScenarioMesures_Test_LMA3.lz4" 2 0 3 0
+Running ftrace fixpos12 "C:\Users\mrgal\AppData\Local\Temp\frender" "uvpos_ScenarioMesures_Test_LMA1.lz4" 2 0 1 0
+Running ftrace fixpos12 "C:\Users\mrgal\AppData\Local\Temp\frender" "uvpos_ScenarioMesures_Test_LMA5.lz4" 2 0 5 0
+Running ftrace fixpos12 "C:\Users\mrgal\AppData\Local\Temp\frender" "uvpos_ScenarioMesures_Test_LM0.lz4" 2 0 0 0
+Running ftrace addmul "C:\Users\mrgal\AppData\Local\Temp\frender" "ScenarioMesures_Test_LMA2" 4 0 2 comp_2.bin
+Running ftrace addmul "C:\Users\mrgal\AppData\Local\Temp\frender" "ScenarioMesures_Test_LMA4" 4 0 4 comp_4.bin
+Running ftrace addmul "C:\Users\mrgal\AppData\Local\Temp\frender" "ScenarioMesures_Test_LMA3" 4 0 3 comp_3.bin
+Running ftrace addmul "C:\Users\mrgal\AppData\Local\Temp\frender" "ScenarioMesures_Test_LMA1" 4 0 1 comp_1.bin
+Running ftrace addmul "C:\Users\mrgal\AppData\Local\Temp\frender" "ScenarioMesures_Test_LMA5" 4 0 5 comp_5.bin
+Running ftrace addmul "C:\Users\mrgal\AppData\Local\Temp\frender" "ScenarioMesures_Test_LM0" 4 0 0 comp_0.bin
+Running ftrace texgi "C:\Users\mrgal\AppData\Local\Temp\frender" "ScenarioMesures_Test_LMA2_diffuse" 4 16 2 "gi_ScenarioMesures_Test_LMA20.bin" "ScenarioMesures_Test_LMA2_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\mrgal\AppData\Local\Temp\frender" "ScenarioMesures_Test_LMA4_diffuse" 4 16 4 "gi_ScenarioMesures_Test_LMA40.bin" "ScenarioMesures_Test_LMA4_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\mrgal\AppData\Local\Temp\frender" "ScenarioMesures_Test_LMA3_diffuse" 4 16 3 "gi_ScenarioMesures_Test_LMA30.bin" "ScenarioMesures_Test_LMA3_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\mrgal\AppData\Local\Temp\frender" "ScenarioMesures_Test_LMA1_diffuse" 4 16 1 "gi_ScenarioMesures_Test_LMA10.bin" "ScenarioMesures_Test_LMA1_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\mrgal\AppData\Local\Temp\frender" "ScenarioMesures_Test_LMA5_diffuse" 4 16 5 "gi_ScenarioMesures_Test_LMA50.bin" "ScenarioMesures_Test_LMA5_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\mrgal\AppData\Local\Temp\frender" "ScenarioMesures_Test_LM0_diffuse" 4 16 0 "gi_ScenarioMesures_Test_LM00.bin" "ScenarioMesures_Test_LM0_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\mrgal\AppData\Local\Temp\frender" "ScenarioMesures_Test_LMA2_diffuse" 4 16 2 "gi_ScenarioMesures_Test_LMA21.bin" "ScenarioMesures_Test_LMA2_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\mrgal\AppData\Local\Temp\frender" "ScenarioMesures_Test_LMA4_diffuse" 4 16 4 "gi_ScenarioMesures_Test_LMA41.bin" "ScenarioMesures_Test_LMA4_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\mrgal\AppData\Local\Temp\frender" "ScenarioMesures_Test_LMA3_diffuse" 4 16 3 "gi_ScenarioMesures_Test_LMA31.bin" "ScenarioMesures_Test_LMA3_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\mrgal\AppData\Local\Temp\frender" "ScenarioMesures_Test_LMA1_diffuse" 4 16 1 "gi_ScenarioMesures_Test_LMA11.bin" "ScenarioMesures_Test_LMA1_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\mrgal\AppData\Local\Temp\frender" "ScenarioMesures_Test_LMA5_diffuse" 4 16 5 "gi_ScenarioMesures_Test_LMA51.bin" "ScenarioMesures_Test_LMA5_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\mrgal\AppData\Local\Temp\frender" "ScenarioMesures_Test_LM0_diffuse" 4 16 0 "gi_ScenarioMesures_Test_LM01.bin" "ScenarioMesures_Test_LM0_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\mrgal\AppData\Local\Temp\frender" "ScenarioMesures_Test_LMA2_diffuse" 4 16 2 "gi_ScenarioMesures_Test_LMA22.bin" "ScenarioMesures_Test_LMA2_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\mrgal\AppData\Local\Temp\frender" "ScenarioMesures_Test_LMA4_diffuse" 4 16 4 "gi_ScenarioMesures_Test_LMA42.bin" "ScenarioMesures_Test_LMA4_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\mrgal\AppData\Local\Temp\frender" "ScenarioMesures_Test_LMA3_diffuse" 4 16 3 "gi_ScenarioMesures_Test_LMA32.bin" "ScenarioMesures_Test_LMA3_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\mrgal\AppData\Local\Temp\frender" "ScenarioMesures_Test_LMA1_diffuse" 4 16 1 "gi_ScenarioMesures_Test_LMA12.bin" "ScenarioMesures_Test_LMA1_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\mrgal\AppData\Local\Temp\frender" "ScenarioMesures_Test_LMA5_diffuse" 4 16 5 "gi_ScenarioMesures_Test_LMA52.bin" "ScenarioMesures_Test_LMA5_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\mrgal\AppData\Local\Temp\frender" "ScenarioMesures_Test_LM0_diffuse" 4 16 0 "gi_ScenarioMesures_Test_LM02.bin" "ScenarioMesures_Test_LM0_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\mrgal\AppData\Local\Temp\frender" "ScenarioMesures_Test_LMA2_diffuse" 4 16 2 "gi_ScenarioMesures_Test_LMA23.bin" "ScenarioMesures_Test_LMA2_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\mrgal\AppData\Local\Temp\frender" "ScenarioMesures_Test_LMA4_diffuse" 4 16 4 "gi_ScenarioMesures_Test_LMA43.bin" "ScenarioMesures_Test_LMA4_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\mrgal\AppData\Local\Temp\frender" "ScenarioMesures_Test_LMA3_diffuse" 4 16 3 "gi_ScenarioMesures_Test_LMA33.bin" "ScenarioMesures_Test_LMA3_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\mrgal\AppData\Local\Temp\frender" "ScenarioMesures_Test_LMA1_diffuse" 4 16 1 "gi_ScenarioMesures_Test_LMA13.bin" "ScenarioMesures_Test_LMA1_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\mrgal\AppData\Local\Temp\frender" "ScenarioMesures_Test_LMA5_diffuse" 4 16 5 "gi_ScenarioMesures_Test_LMA53.bin" "ScenarioMesures_Test_LMA5_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\mrgal\AppData\Local\Temp\frender" "ScenarioMesures_Test_LM0_diffuse" 4 16 0 "gi_ScenarioMesures_Test_LM03.bin" "ScenarioMesures_Test_LM0_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\mrgal\AppData\Local\Temp\frender" "ScenarioMesures_Test_LMA2_final" 4 16 2 "gi_ScenarioMesures_Test_LMA24.bin" "ScenarioMesures_Test_LMA2_lights_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\mrgal\AppData\Local\Temp\frender" "ScenarioMesures_Test_LMA4_final" 4 16 4 "gi_ScenarioMesures_Test_LMA44.bin" "ScenarioMesures_Test_LMA4_lights_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\mrgal\AppData\Local\Temp\frender" "ScenarioMesures_Test_LMA3_final" 4 16 3 "gi_ScenarioMesures_Test_LMA34.bin" "ScenarioMesures_Test_LMA3_lights_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\mrgal\AppData\Local\Temp\frender" "ScenarioMesures_Test_LMA1_final" 4 16 1 "gi_ScenarioMesures_Test_LMA14.bin" "ScenarioMesures_Test_LMA1_lights_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\mrgal\AppData\Local\Temp\frender" "ScenarioMesures_Test_LMA5_final" 4 16 5 "gi_ScenarioMesures_Test_LMA54.bin" "ScenarioMesures_Test_LMA5_lights_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\mrgal\AppData\Local\Temp\frender" "ScenarioMesures_Test_LM0_final" 4 16 0 "gi_ScenarioMesures_Test_LM04.bin" "ScenarioMesures_Test_LM0_lights_HDR.lz4" vbTraceTex.bin
+Running denoiser "C:\Users\mrgal\AppData\Local\Temp\frender/ScenarioMesures_Test_LMA2_final_HDR.lz4" "C:\Users\mrgal\AppData\Local\Temp\frender/ScenarioMesures_Test_LMA2_final_HDR.lz4" 4096 0
+Running seamfixer "C:\Users\mrgal\AppData\Local\Temp\frender" "2" "ScenarioMesures_Test_LMA2_final_HDR.lz4"
+Running denoiser "C:\Users\mrgal\AppData\Local\Temp\frender/ScenarioMesures_Test_LMA4_final_HDR.lz4" "C:\Users\mrgal\AppData\Local\Temp\frender/ScenarioMesures_Test_LMA4_final_HDR.lz4" 4096 0
+Running seamfixer "C:\Users\mrgal\AppData\Local\Temp\frender" "4" "ScenarioMesures_Test_LMA4_final_HDR.lz4"
+Running denoiser "C:\Users\mrgal\AppData\Local\Temp\frender/ScenarioMesures_Test_LMA3_final_HDR.lz4" "C:\Users\mrgal\AppData\Local\Temp\frender/ScenarioMesures_Test_LMA3_final_HDR.lz4" 4096 0
+Running seamfixer "C:\Users\mrgal\AppData\Local\Temp\frender" "3" "ScenarioMesures_Test_LMA3_final_HDR.lz4"
+Running denoiser "C:\Users\mrgal\AppData\Local\Temp\frender/ScenarioMesures_Test_LMA1_final_HDR.lz4" "C:\Users\mrgal\AppData\Local\Temp\frender/ScenarioMesures_Test_LMA1_final_HDR.lz4" 4096 0
+Running seamfixer "C:\Users\mrgal\AppData\Local\Temp\frender" "1" "ScenarioMesures_Test_LMA1_final_HDR.lz4"
+Running denoiser "C:\Users\mrgal\AppData\Local\Temp\frender/ScenarioMesures_Test_LMA5_final_HDR.lz4" "C:\Users\mrgal\AppData\Local\Temp\frender/ScenarioMesures_Test_LMA5_final_HDR.lz4" 1024 0
+Running seamfixer "C:\Users\mrgal\AppData\Local\Temp\frender" "5" "ScenarioMesures_Test_LMA5_final_HDR.lz4"
+Running denoiser "C:\Users\mrgal\AppData\Local\Temp\frender/ScenarioMesures_Test_LM0_final_HDR.lz4" "C:\Users\mrgal\AppData\Local\Temp\frender/ScenarioMesures_Test_LM0_final_HDR.lz4" 4096 0
+Running seamfixer "C:\Users\mrgal\AppData\Local\Temp\frender" "0" "ScenarioMesures_Test_LM0_final_HDR.lz4"
+Running halffloat2hdr "C:\Users\mrgal\AppData\Local\Temp\frender/ScenarioMesures_Test_LMA2_final_HDR.lz4" "C:/Escritorio/Trabajo/ProyectosProfesionales/Videojuegos/Unity/Proyecto/Assets/BakeryLightmaps/ScenarioMesures_Test_LMA2_final.hdr"
+Running halffloat2hdr "C:\Users\mrgal\AppData\Local\Temp\frender/ScenarioMesures_Test_LMA4_final_HDR.lz4" "C:/Escritorio/Trabajo/ProyectosProfesionales/Videojuegos/Unity/Proyecto/Assets/BakeryLightmaps/ScenarioMesures_Test_LMA4_final.hdr"
+Running halffloat2hdr "C:\Users\mrgal\AppData\Local\Temp\frender/ScenarioMesures_Test_LMA3_final_HDR.lz4" "C:/Escritorio/Trabajo/ProyectosProfesionales/Videojuegos/Unity/Proyecto/Assets/BakeryLightmaps/ScenarioMesures_Test_LMA3_final.hdr"
+Running halffloat2hdr "C:\Users\mrgal\AppData\Local\Temp\frender/ScenarioMesures_Test_LMA1_final_HDR.lz4" "C:/Escritorio/Trabajo/ProyectosProfesionales/Videojuegos/Unity/Proyecto/Assets/BakeryLightmaps/ScenarioMesures_Test_LMA1_final.hdr"
+Running halffloat2hdr "C:\Users\mrgal\AppData\Local\Temp\frender/ScenarioMesures_Test_LMA5_final_HDR.lz4" "C:/Escritorio/Trabajo/ProyectosProfesionales/Videojuegos/Unity/Proyecto/Assets/BakeryLightmaps/ScenarioMesures_Test_LMA5_final.hdr"
+Running halffloat2hdr "C:\Users\mrgal\AppData\Local\Temp\frender/ScenarioMesures_Test_LM0_final_HDR.lz4" "C:/Escritorio/Trabajo/ProyectosProfesionales/Videojuegos/Unity/Proyecto/Assets/BakeryLightmaps/ScenarioMesures_Test_LM0_final.hdr"
+Loaded vertex shader: quad.vso
+Loaded pixel shader: skyOutput.pso
+Loaded pixel shader: cookieOutput.pso
+initShaders done
+initScene done
+Done
+Rendering UV GBuffer for ScenarioMesures_Test_LM0 51
+RGBA32F...RGBA8...RGBA8_SRGB...RGBA16F...states...
+Rendering UV normal...
+Rendering faceted UV normal...
+Rendering UV pos...
+Rendering smooth UV pos...
+Rendering UV GBuffer for ScenarioMesures_Test_LMA1 51
+RGBA32F...RGBA8...RGBA8_SRGB...RGBA16F...states...
+Rendering UV normal...
+Rendering faceted UV normal...
+Rendering UV pos...
+Rendering smooth UV pos...
+Rendering UV GBuffer for ScenarioMesures_Test_LMA2 51
+RGBA32F...RGBA8...RGBA8_SRGB...RGBA16F...states...
+Rendering UV normal...
+Rendering faceted UV normal...
+Rendering UV pos...
+Rendering smooth UV pos...
+Rendering UV GBuffer for ScenarioMesures_Test_LMA3 51
+RGBA32F...RGBA8...RGBA8_SRGB...RGBA16F...states...
+Rendering UV normal...
+Rendering faceted UV normal...
+Rendering UV pos...
+Rendering smooth UV pos...
+Rendering UV GBuffer for ScenarioMesures_Test_LMA4 51
+RGBA32F...RGBA8...RGBA8_SRGB...RGBA16F...states...
+Rendering UV normal...
+Rendering faceted UV normal...
+Rendering UV pos...
+Rendering smooth UV pos...
+Rendering UV GBuffer for ScenarioMesures_Test_LMA5 51
+RGBA32F...RGBA8...RGBA8_SRGB...RGBA16F...states...
+Rendering UV normal...
+Rendering faceted UV normal...
+Rendering UV pos...
+Rendering smooth UV pos...
+Done
+Done
+Running ftrace fixpos12 "C:\Users\mrgal\AppData\Local\Temp\frender" "uvpos_ScenarioMesures_Test_LMA2.lz4" 2 0 2 0
+Running ftrace fixpos12 "C:\Users\mrgal\AppData\Local\Temp\frender" "uvpos_ScenarioMesures_Test_LMA4.lz4" 2 0 4 0
+Running ftrace fixpos12 "C:\Users\mrgal\AppData\Local\Temp\frender" "uvpos_ScenarioMesures_Test_LMA3.lz4" 2 0 3 0
+Running ftrace fixpos12 "C:\Users\mrgal\AppData\Local\Temp\frender" "uvpos_ScenarioMesures_Test_LMA1.lz4" 2 0 1 0
+Running ftrace fixpos12 "C:\Users\mrgal\AppData\Local\Temp\frender" "uvpos_ScenarioMesures_Test_LMA5.lz4" 2 0 5 0
+Running ftrace fixpos12 "C:\Users\mrgal\AppData\Local\Temp\frender" "uvpos_ScenarioMesures_Test_LM0.lz4" 2 0 0 0
+Running ftrace addmul "C:\Users\mrgal\AppData\Local\Temp\frender" "ScenarioMesures_Test_LMA2" 4 0 2 comp_2.bin
+Running ftrace addmul "C:\Users\mrgal\AppData\Local\Temp\frender" "ScenarioMesures_Test_LMA4" 4 0 4 comp_4.bin
+Running ftrace addmul "C:\Users\mrgal\AppData\Local\Temp\frender" "ScenarioMesures_Test_LMA3" 4 0 3 comp_3.bin
+Running ftrace addmul "C:\Users\mrgal\AppData\Local\Temp\frender" "ScenarioMesures_Test_LMA1" 4 0 1 comp_1.bin
+Running ftrace addmul "C:\Users\mrgal\AppData\Local\Temp\frender" "ScenarioMesures_Test_LMA5" 4 0 5 comp_5.bin
+Running ftrace addmul "C:\Users\mrgal\AppData\Local\Temp\frender" "ScenarioMesures_Test_LM0" 4 0 0 comp_0.bin
+Running ftrace texgi "C:\Users\mrgal\AppData\Local\Temp\frender" "ScenarioMesures_Test_LMA2_diffuse" 4 16 2 "gi_ScenarioMesures_Test_LMA20.bin" "ScenarioMesures_Test_LMA2_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\mrgal\AppData\Local\Temp\frender" "ScenarioMesures_Test_LMA4_diffuse" 4 16 4 "gi_ScenarioMesures_Test_LMA40.bin" "ScenarioMesures_Test_LMA4_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\mrgal\AppData\Local\Temp\frender" "ScenarioMesures_Test_LMA3_diffuse" 4 16 3 "gi_ScenarioMesures_Test_LMA30.bin" "ScenarioMesures_Test_LMA3_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\mrgal\AppData\Local\Temp\frender" "ScenarioMesures_Test_LMA1_diffuse" 4 16 1 "gi_ScenarioMesures_Test_LMA10.bin" "ScenarioMesures_Test_LMA1_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\mrgal\AppData\Local\Temp\frender" "ScenarioMesures_Test_LMA5_diffuse" 4 16 5 "gi_ScenarioMesures_Test_LMA50.bin" "ScenarioMesures_Test_LMA5_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\mrgal\AppData\Local\Temp\frender" "ScenarioMesures_Test_LM0_diffuse" 4 16 0 "gi_ScenarioMesures_Test_LM00.bin" "ScenarioMesures_Test_LM0_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\mrgal\AppData\Local\Temp\frender" "ScenarioMesures_Test_LMA2_diffuse" 4 16 2 "gi_ScenarioMesures_Test_LMA21.bin" "ScenarioMesures_Test_LMA2_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\mrgal\AppData\Local\Temp\frender" "ScenarioMesures_Test_LMA4_diffuse" 4 16 4 "gi_ScenarioMesures_Test_LMA41.bin" "ScenarioMesures_Test_LMA4_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\mrgal\AppData\Local\Temp\frender" "ScenarioMesures_Test_LMA3_diffuse" 4 16 3 "gi_ScenarioMesures_Test_LMA31.bin" "ScenarioMesures_Test_LMA3_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\mrgal\AppData\Local\Temp\frender" "ScenarioMesures_Test_LMA1_diffuse" 4 16 1 "gi_ScenarioMesures_Test_LMA11.bin" "ScenarioMesures_Test_LMA1_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\mrgal\AppData\Local\Temp\frender" "ScenarioMesures_Test_LMA5_diffuse" 4 16 5 "gi_ScenarioMesures_Test_LMA51.bin" "ScenarioMesures_Test_LMA5_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\mrgal\AppData\Local\Temp\frender" "ScenarioMesures_Test_LM0_diffuse" 4 16 0 "gi_ScenarioMesures_Test_LM01.bin" "ScenarioMesures_Test_LM0_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\mrgal\AppData\Local\Temp\frender" "ScenarioMesures_Test_LMA2_diffuse" 4 16 2 "gi_ScenarioMesures_Test_LMA22.bin" "ScenarioMesures_Test_LMA2_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\mrgal\AppData\Local\Temp\frender" "ScenarioMesures_Test_LMA4_diffuse" 4 16 4 "gi_ScenarioMesures_Test_LMA42.bin" "ScenarioMesures_Test_LMA4_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\mrgal\AppData\Local\Temp\frender" "ScenarioMesures_Test_LMA3_diffuse" 4 16 3 "gi_ScenarioMesures_Test_LMA32.bin" "ScenarioMesures_Test_LMA3_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\mrgal\AppData\Local\Temp\frender" "ScenarioMesures_Test_LMA1_diffuse" 4 16 1 "gi_ScenarioMesures_Test_LMA12.bin" "ScenarioMesures_Test_LMA1_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\mrgal\AppData\Local\Temp\frender" "ScenarioMesures_Test_LMA5_diffuse" 4 16 5 "gi_ScenarioMesures_Test_LMA52.bin" "ScenarioMesures_Test_LMA5_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\mrgal\AppData\Local\Temp\frender" "ScenarioMesures_Test_LM0_diffuse" 4 16 0 "gi_ScenarioMesures_Test_LM02.bin" "ScenarioMesures_Test_LM0_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\mrgal\AppData\Local\Temp\frender" "ScenarioMesures_Test_LMA2_diffuse" 4 16 2 "gi_ScenarioMesures_Test_LMA23.bin" "ScenarioMesures_Test_LMA2_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\mrgal\AppData\Local\Temp\frender" "ScenarioMesures_Test_LMA4_diffuse" 4 16 4 "gi_ScenarioMesures_Test_LMA43.bin" "ScenarioMesures_Test_LMA4_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\mrgal\AppData\Local\Temp\frender" "ScenarioMesures_Test_LMA3_diffuse" 4 16 3 "gi_ScenarioMesures_Test_LMA33.bin" "ScenarioMesures_Test_LMA3_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\mrgal\AppData\Local\Temp\frender" "ScenarioMesures_Test_LMA1_diffuse" 4 16 1 "gi_ScenarioMesures_Test_LMA13.bin" "ScenarioMesures_Test_LMA1_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\mrgal\AppData\Local\Temp\frender" "ScenarioMesures_Test_LMA5_diffuse" 4 16 5 "gi_ScenarioMesures_Test_LMA53.bin" "ScenarioMesures_Test_LMA5_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\mrgal\AppData\Local\Temp\frender" "ScenarioMesures_Test_LM0_diffuse" 4 16 0 "gi_ScenarioMesures_Test_LM03.bin" "ScenarioMesures_Test_LM0_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\mrgal\AppData\Local\Temp\frender" "ScenarioMesures_Test_LMA2_final" 4 16 2 "gi_ScenarioMesures_Test_LMA24.bin" "ScenarioMesures_Test_LMA2_lights_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\mrgal\AppData\Local\Temp\frender" "ScenarioMesures_Test_LMA4_final" 4 16 4 "gi_ScenarioMesures_Test_LMA44.bin" "ScenarioMesures_Test_LMA4_lights_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\mrgal\AppData\Local\Temp\frender" "ScenarioMesures_Test_LMA3_final" 4 16 3 "gi_ScenarioMesures_Test_LMA34.bin" "ScenarioMesures_Test_LMA3_lights_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\mrgal\AppData\Local\Temp\frender" "ScenarioMesures_Test_LMA1_final" 4 16 1 "gi_ScenarioMesures_Test_LMA14.bin" "ScenarioMesures_Test_LMA1_lights_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\mrgal\AppData\Local\Temp\frender" "ScenarioMesures_Test_LMA5_final" 4 16 5 "gi_ScenarioMesures_Test_LMA54.bin" "ScenarioMesures_Test_LMA5_lights_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\mrgal\AppData\Local\Temp\frender" "ScenarioMesures_Test_LM0_final" 4 16 0 "gi_ScenarioMesures_Test_LM04.bin" "ScenarioMesures_Test_LM0_lights_HDR.lz4" vbTraceTex.bin
+Running denoiser "C:\Users\mrgal\AppData\Local\Temp\frender/ScenarioMesures_Test_LMA2_final_HDR.lz4" "C:\Users\mrgal\AppData\Local\Temp\frender/ScenarioMesures_Test_LMA2_final_HDR.lz4" 4096 0
+Running seamfixer "C:\Users\mrgal\AppData\Local\Temp\frender" "2" "ScenarioMesures_Test_LMA2_final_HDR.lz4"
+Running denoiser "C:\Users\mrgal\AppData\Local\Temp\frender/ScenarioMesures_Test_LMA4_final_HDR.lz4" "C:\Users\mrgal\AppData\Local\Temp\frender/ScenarioMesures_Test_LMA4_final_HDR.lz4" 4096 0
+Running seamfixer "C:\Users\mrgal\AppData\Local\Temp\frender" "4" "ScenarioMesures_Test_LMA4_final_HDR.lz4"
+Running denoiser "C:\Users\mrgal\AppData\Local\Temp\frender/ScenarioMesures_Test_LMA3_final_HDR.lz4" "C:\Users\mrgal\AppData\Local\Temp\frender/ScenarioMesures_Test_LMA3_final_HDR.lz4" 4096 0
+Running seamfixer "C:\Users\mrgal\AppData\Local\Temp\frender" "3" "ScenarioMesures_Test_LMA3_final_HDR.lz4"
+Running denoiser "C:\Users\mrgal\AppData\Local\Temp\frender/ScenarioMesures_Test_LMA1_final_HDR.lz4" "C:\Users\mrgal\AppData\Local\Temp\frender/ScenarioMesures_Test_LMA1_final_HDR.lz4" 4096 0
+Running seamfixer "C:\Users\mrgal\AppData\Local\Temp\frender" "1" "ScenarioMesures_Test_LMA1_final_HDR.lz4"
+Running denoiser "C:\Users\mrgal\AppData\Local\Temp\frender/ScenarioMesures_Test_LMA5_final_HDR.lz4" "C:\Users\mrgal\AppData\Local\Temp\frender/ScenarioMesures_Test_LMA5_final_HDR.lz4" 1024 0
+Running seamfixer "C:\Users\mrgal\AppData\Local\Temp\frender" "5" "ScenarioMesures_Test_LMA5_final_HDR.lz4"
+Running denoiser "C:\Users\mrgal\AppData\Local\Temp\frender/ScenarioMesures_Test_LM0_final_HDR.lz4" "C:\Users\mrgal\AppData\Local\Temp\frender/ScenarioMesures_Test_LM0_final_HDR.lz4" 4096 0
+Running seamfixer "C:\Users\mrgal\AppData\Local\Temp\frender" "0" "ScenarioMesures_Test_LM0_final_HDR.lz4"
+Running halffloat2hdr "C:\Users\mrgal\AppData\Local\Temp\frender/ScenarioMesures_Test_LMA2_final_HDR.lz4" "C:/Escritorio/Trabajo/ProyectosProfesionales/Videojuegos/Unity/Proyecto/Assets/BakeryLightmaps/ScenarioMesures_Test_LMA2_final.hdr"
+Running halffloat2hdr "C:\Users\mrgal\AppData\Local\Temp\frender/ScenarioMesures_Test_LMA4_final_HDR.lz4" "C:/Escritorio/Trabajo/ProyectosProfesionales/Videojuegos/Unity/Proyecto/Assets/BakeryLightmaps/ScenarioMesures_Test_LMA4_final.hdr"
+Running halffloat2hdr "C:\Users\mrgal\AppData\Local\Temp\frender/ScenarioMesures_Test_LMA3_final_HDR.lz4" "C:/Escritorio/Trabajo/ProyectosProfesionales/Videojuegos/Unity/Proyecto/Assets/BakeryLightmaps/ScenarioMesures_Test_LMA3_final.hdr"
+Running halffloat2hdr "C:\Users\mrgal\AppData\Local\Temp\frender/ScenarioMesures_Test_LMA1_final_HDR.lz4" "C:/Escritorio/Trabajo/ProyectosProfesionales/Videojuegos/Unity/Proyecto/Assets/BakeryLightmaps/ScenarioMesures_Test_LMA1_final.hdr"
+Running halffloat2hdr "C:\Users\mrgal\AppData\Local\Temp\frender/ScenarioMesures_Test_LMA5_final_HDR.lz4" "C:/Escritorio/Trabajo/ProyectosProfesionales/Videojuegos/Unity/Proyecto/Assets/BakeryLightmaps/ScenarioMesures_Test_LMA5_final.hdr"
+Running halffloat2hdr "C:\Users\mrgal\AppData\Local\Temp\frender/ScenarioMesures_Test_LM0_final_HDR.lz4" "C:/Escritorio/Trabajo/ProyectosProfesionales/Videojuegos/Unity/Proyecto/Assets/BakeryLightmaps/ScenarioMesures_Test_LM0_final.hdr"
+Loaded vertex shader: quad.vso
+Loaded pixel shader: skyOutput.pso
+Loaded pixel shader: cookieOutput.pso
+initShaders done
+initScene done
+Done
+Rendering UV GBuffer for ScenarioMesures_Test_LM0 51
+RGBA32F...RGBA8...RGBA8_SRGB...RGBA16F...states...
+Rendering UV normal...
+Rendering faceted UV normal...
+Rendering UV pos...
+Rendering smooth UV pos...
+Rendering UV GBuffer for ScenarioMesures_Test_LMA1 51
+RGBA32F...RGBA8...RGBA8_SRGB...RGBA16F...states...
+Rendering UV normal...
+Rendering faceted UV normal...
+Rendering UV pos...
+Rendering smooth UV pos...
+Rendering UV GBuffer for ScenarioMesures_Test_LMA2 51
+RGBA32F...RGBA8...RGBA8_SRGB...RGBA16F...states...
+Rendering UV normal...
+Rendering faceted UV normal...
+Rendering UV pos...
+Rendering smooth UV pos...
+Rendering UV GBuffer for ScenarioMesures_Test_LMA3 51
+RGBA32F...RGBA8...RGBA8_SRGB...RGBA16F...states...
+Rendering UV normal...
+Rendering faceted UV normal...
+Rendering UV pos...
+Rendering smooth UV pos...
+Rendering UV GBuffer for ScenarioMesures_Test_LMA4 51
+RGBA32F...RGBA8...RGBA8_SRGB...RGBA16F...states...
+Rendering UV normal...
+Rendering faceted UV normal...
+Rendering UV pos...
+Rendering smooth UV pos...
+Rendering UV GBuffer for ScenarioMesures_Test_LMA5 51
+RGBA32F...RGBA8...RGBA8_SRGB...RGBA16F...states...
+Rendering UV normal...
+Rendering faceted UV normal...
+Rendering UV pos...
+Rendering smooth UV pos...
+Done
+Done
+Running ftrace fixpos12 "C:\Users\mrgal\AppData\Local\Temp\frender" "uvpos_ScenarioMesures_Test_LMA2.lz4" 2 0 2 0
+Running ftrace fixpos12 "C:\Users\mrgal\AppData\Local\Temp\frender" "uvpos_ScenarioMesures_Test_LMA4.lz4" 2 0 4 0
+Running ftrace fixpos12 "C:\Users\mrgal\AppData\Local\Temp\frender" "uvpos_ScenarioMesures_Test_LMA3.lz4" 2 0 3 0
+Running ftrace fixpos12 "C:\Users\mrgal\AppData\Local\Temp\frender" "uvpos_ScenarioMesures_Test_LMA1.lz4" 2 0 1 0
+Running ftrace fixpos12 "C:\Users\mrgal\AppData\Local\Temp\frender" "uvpos_ScenarioMesures_Test_LMA5.lz4" 2 0 5 0
+Running ftrace fixpos12 "C:\Users\mrgal\AppData\Local\Temp\frender" "uvpos_ScenarioMesures_Test_LM0.lz4" 2 0 0 0
+Running ftrace addmul "C:\Users\mrgal\AppData\Local\Temp\frender" "ScenarioMesures_Test_LMA2" 4 0 2 comp_2.bin
+Running ftrace addmul "C:\Users\mrgal\AppData\Local\Temp\frender" "ScenarioMesures_Test_LMA4" 4 0 4 comp_4.bin
+Running ftrace addmul "C:\Users\mrgal\AppData\Local\Temp\frender" "ScenarioMesures_Test_LMA3" 4 0 3 comp_3.bin
+Running ftrace addmul "C:\Users\mrgal\AppData\Local\Temp\frender" "ScenarioMesures_Test_LMA1" 4 0 1 comp_1.bin
+Running ftrace addmul "C:\Users\mrgal\AppData\Local\Temp\frender" "ScenarioMesures_Test_LMA5" 4 0 5 comp_5.bin
+Running ftrace addmul "C:\Users\mrgal\AppData\Local\Temp\frender" "ScenarioMesures_Test_LM0" 4 0 0 comp_0.bin
+Running ftrace texgi "C:\Users\mrgal\AppData\Local\Temp\frender" "ScenarioMesures_Test_LMA2_diffuse" 4 16 2 "gi_ScenarioMesures_Test_LMA20.bin" "ScenarioMesures_Test_LMA2_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\mrgal\AppData\Local\Temp\frender" "ScenarioMesures_Test_LMA4_diffuse" 4 16 4 "gi_ScenarioMesures_Test_LMA40.bin" "ScenarioMesures_Test_LMA4_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\mrgal\AppData\Local\Temp\frender" "ScenarioMesures_Test_LMA3_diffuse" 4 16 3 "gi_ScenarioMesures_Test_LMA30.bin" "ScenarioMesures_Test_LMA3_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\mrgal\AppData\Local\Temp\frender" "ScenarioMesures_Test_LMA1_diffuse" 4 16 1 "gi_ScenarioMesures_Test_LMA10.bin" "ScenarioMesures_Test_LMA1_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\mrgal\AppData\Local\Temp\frender" "ScenarioMesures_Test_LMA5_diffuse" 4 16 5 "gi_ScenarioMesures_Test_LMA50.bin" "ScenarioMesures_Test_LMA5_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\mrgal\AppData\Local\Temp\frender" "ScenarioMesures_Test_LM0_diffuse" 4 16 0 "gi_ScenarioMesures_Test_LM00.bin" "ScenarioMesures_Test_LM0_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\mrgal\AppData\Local\Temp\frender" "ScenarioMesures_Test_LMA2_diffuse" 4 16 2 "gi_ScenarioMesures_Test_LMA21.bin" "ScenarioMesures_Test_LMA2_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\mrgal\AppData\Local\Temp\frender" "ScenarioMesures_Test_LMA4_diffuse" 4 16 4 "gi_ScenarioMesures_Test_LMA41.bin" "ScenarioMesures_Test_LMA4_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\mrgal\AppData\Local\Temp\frender" "ScenarioMesures_Test_LMA3_diffuse" 4 16 3 "gi_ScenarioMesures_Test_LMA31.bin" "ScenarioMesures_Test_LMA3_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\mrgal\AppData\Local\Temp\frender" "ScenarioMesures_Test_LMA1_diffuse" 4 16 1 "gi_ScenarioMesures_Test_LMA11.bin" "ScenarioMesures_Test_LMA1_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\mrgal\AppData\Local\Temp\frender" "ScenarioMesures_Test_LMA5_diffuse" 4 16 5 "gi_ScenarioMesures_Test_LMA51.bin" "ScenarioMesures_Test_LMA5_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\mrgal\AppData\Local\Temp\frender" "ScenarioMesures_Test_LM0_diffuse" 4 16 0 "gi_ScenarioMesures_Test_LM01.bin" "ScenarioMesures_Test_LM0_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\mrgal\AppData\Local\Temp\frender" "ScenarioMesures_Test_LMA2_diffuse" 4 16 2 "gi_ScenarioMesures_Test_LMA22.bin" "ScenarioMesures_Test_LMA2_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\mrgal\AppData\Local\Temp\frender" "ScenarioMesures_Test_LMA4_diffuse" 4 16 4 "gi_ScenarioMesures_Test_LMA42.bin" "ScenarioMesures_Test_LMA4_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\mrgal\AppData\Local\Temp\frender" "ScenarioMesures_Test_LMA3_diffuse" 4 16 3 "gi_ScenarioMesures_Test_LMA32.bin" "ScenarioMesures_Test_LMA3_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\mrgal\AppData\Local\Temp\frender" "ScenarioMesures_Test_LMA1_diffuse" 4 16 1 "gi_ScenarioMesures_Test_LMA12.bin" "ScenarioMesures_Test_LMA1_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\mrgal\AppData\Local\Temp\frender" "ScenarioMesures_Test_LMA5_diffuse" 4 16 5 "gi_ScenarioMesures_Test_LMA52.bin" "ScenarioMesures_Test_LMA5_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\mrgal\AppData\Local\Temp\frender" "ScenarioMesures_Test_LM0_diffuse" 4 16 0 "gi_ScenarioMesures_Test_LM02.bin" "ScenarioMesures_Test_LM0_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\mrgal\AppData\Local\Temp\frender" "ScenarioMesures_Test_LMA2_diffuse" 4 16 2 "gi_ScenarioMesures_Test_LMA23.bin" "ScenarioMesures_Test_LMA2_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\mrgal\AppData\Local\Temp\frender" "ScenarioMesures_Test_LMA4_diffuse" 4 16 4 "gi_ScenarioMesures_Test_LMA43.bin" "ScenarioMesures_Test_LMA4_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\mrgal\AppData\Local\Temp\frender" "ScenarioMesures_Test_LMA3_diffuse" 4 16 3 "gi_ScenarioMesures_Test_LMA33.bin" "ScenarioMesures_Test_LMA3_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\mrgal\AppData\Local\Temp\frender" "ScenarioMesures_Test_LMA1_diffuse" 4 16 1 "gi_ScenarioMesures_Test_LMA13.bin" "ScenarioMesures_Test_LMA1_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\mrgal\AppData\Local\Temp\frender" "ScenarioMesures_Test_LMA5_diffuse" 4 16 5 "gi_ScenarioMesures_Test_LMA53.bin" "ScenarioMesures_Test_LMA5_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\mrgal\AppData\Local\Temp\frender" "ScenarioMesures_Test_LM0_diffuse" 4 16 0 "gi_ScenarioMesures_Test_LM03.bin" "ScenarioMesures_Test_LM0_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\mrgal\AppData\Local\Temp\frender" "ScenarioMesures_Test_LMA2_final" 4 16 2 "gi_ScenarioMesures_Test_LMA24.bin" "ScenarioMesures_Test_LMA2_lights_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\mrgal\AppData\Local\Temp\frender" "ScenarioMesures_Test_LMA4_final" 4 16 4 "gi_ScenarioMesures_Test_LMA44.bin" "ScenarioMesures_Test_LMA4_lights_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\mrgal\AppData\Local\Temp\frender" "ScenarioMesures_Test_LMA3_final" 4 16 3 "gi_ScenarioMesures_Test_LMA34.bin" "ScenarioMesures_Test_LMA3_lights_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\mrgal\AppData\Local\Temp\frender" "ScenarioMesures_Test_LMA1_final" 4 16 1 "gi_ScenarioMesures_Test_LMA14.bin" "ScenarioMesures_Test_LMA1_lights_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\mrgal\AppData\Local\Temp\frender" "ScenarioMesures_Test_LMA5_final" 4 16 5 "gi_ScenarioMesures_Test_LMA54.bin" "ScenarioMesures_Test_LMA5_lights_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\mrgal\AppData\Local\Temp\frender" "ScenarioMesures_Test_LM0_final" 4 16 0 "gi_ScenarioMesures_Test_LM04.bin" "ScenarioMesures_Test_LM0_lights_HDR.lz4" vbTraceTex.bin
+Running denoiser "C:\Users\mrgal\AppData\Local\Temp\frender/ScenarioMesures_Test_LMA2_final_HDR.lz4" "C:\Users\mrgal\AppData\Local\Temp\frender/ScenarioMesures_Test_LMA2_final_HDR.lz4" 4096 0
+Running seamfixer "C:\Users\mrgal\AppData\Local\Temp\frender" "2" "ScenarioMesures_Test_LMA2_final_HDR.lz4"
+Running denoiser "C:\Users\mrgal\AppData\Local\Temp\frender/ScenarioMesures_Test_LMA4_final_HDR.lz4" "C:\Users\mrgal\AppData\Local\Temp\frender/ScenarioMesures_Test_LMA4_final_HDR.lz4" 4096 0
+Running seamfixer "C:\Users\mrgal\AppData\Local\Temp\frender" "4" "ScenarioMesures_Test_LMA4_final_HDR.lz4"
+Running denoiser "C:\Users\mrgal\AppData\Local\Temp\frender/ScenarioMesures_Test_LMA3_final_HDR.lz4" "C:\Users\mrgal\AppData\Local\Temp\frender/ScenarioMesures_Test_LMA3_final_HDR.lz4" 4096 0
+Running seamfixer "C:\Users\mrgal\AppData\Local\Temp\frender" "3" "ScenarioMesures_Test_LMA3_final_HDR.lz4"
+Running denoiser "C:\Users\mrgal\AppData\Local\Temp\frender/ScenarioMesures_Test_LMA1_final_HDR.lz4" "C:\Users\mrgal\AppData\Local\Temp\frender/ScenarioMesures_Test_LMA1_final_HDR.lz4" 4096 0
+Running seamfixer "C:\Users\mrgal\AppData\Local\Temp\frender" "1" "ScenarioMesures_Test_LMA1_final_HDR.lz4"
+Running denoiser "C:\Users\mrgal\AppData\Local\Temp\frender/ScenarioMesures_Test_LMA5_final_HDR.lz4" "C:\Users\mrgal\AppData\Local\Temp\frender/ScenarioMesures_Test_LMA5_final_HDR.lz4" 1024 0
+Running seamfixer "C:\Users\mrgal\AppData\Local\Temp\frender" "5" "ScenarioMesures_Test_LMA5_final_HDR.lz4"
+Running denoiser "C:\Users\mrgal\AppData\Local\Temp\frender/ScenarioMesures_Test_LM0_final_HDR.lz4" "C:\Users\mrgal\AppData\Local\Temp\frender/ScenarioMesures_Test_LM0_final_HDR.lz4" 4096 0
+Running seamfixer "C:\Users\mrgal\AppData\Local\Temp\frender" "0" "ScenarioMesures_Test_LM0_final_HDR.lz4"
+Running halffloat2hdr "C:\Users\mrgal\AppData\Local\Temp\frender/ScenarioMesures_Test_LMA2_final_HDR.lz4" "C:/Escritorio/Trabajo/ProyectosProfesionales/Videojuegos/Unity/Proyecto/Assets/BakeryLightmaps/ScenarioMesures_Test_LMA2_final.hdr"
+Running halffloat2hdr "C:\Users\mrgal\AppData\Local\Temp\frender/ScenarioMesures_Test_LMA4_final_HDR.lz4" "C:/Escritorio/Trabajo/ProyectosProfesionales/Videojuegos/Unity/Proyecto/Assets/BakeryLightmaps/ScenarioMesures_Test_LMA4_final.hdr"
+Running halffloat2hdr "C:\Users\mrgal\AppData\Local\Temp\frender/ScenarioMesures_Test_LMA3_final_HDR.lz4" "C:/Escritorio/Trabajo/ProyectosProfesionales/Videojuegos/Unity/Proyecto/Assets/BakeryLightmaps/ScenarioMesures_Test_LMA3_final.hdr"
+Running halffloat2hdr "C:\Users\mrgal\AppData\Local\Temp\frender/ScenarioMesures_Test_LMA1_final_HDR.lz4" "C:/Escritorio/Trabajo/ProyectosProfesionales/Videojuegos/Unity/Proyecto/Assets/BakeryLightmaps/ScenarioMesures_Test_LMA1_final.hdr"
+Running halffloat2hdr "C:\Users\mrgal\AppData\Local\Temp\frender/ScenarioMesures_Test_LMA5_final_HDR.lz4" "C:/Escritorio/Trabajo/ProyectosProfesionales/Videojuegos/Unity/Proyecto/Assets/BakeryLightmaps/ScenarioMesures_Test_LMA5_final.hdr"
+Running halffloat2hdr "C:\Users\mrgal\AppData\Local\Temp\frender/ScenarioMesures_Test_LM0_final_HDR.lz4" "C:/Escritorio/Trabajo/ProyectosProfesionales/Videojuegos/Unity/Proyecto/Assets/BakeryLightmaps/ScenarioMesures_Test_LM0_final.hdr"
+2023-4-28
+Rendering UV GBuffer for TrainStation_LM0 51
+RGBA32F...RGBA8...RGBA8_SRGB...RGBA16F...states...
+Rendering UV normal...
+Rendering faceted UV normal...
+Rendering UV pos...
+Rendering smooth UV pos...
+Rendering UV GBuffer for TrainStation_LMA1 51
+RGBA32F...RGBA8...RGBA8_SRGB...RGBA16F...states...
+Rendering UV normal...
+Rendering faceted UV normal...
+Rendering UV pos...
+Rendering smooth UV pos...
+Rendering UV GBuffer for TrainStation_LMA2 51
+RGBA32F...RGBA8...RGBA8_SRGB...RGBA16F...states...
+Rendering UV normal...
+Rendering faceted UV normal...
+Rendering UV pos...
+Rendering smooth UV pos...
+Rendering UV GBuffer for TrainStation_LMA3 51
+RGBA32F...RGBA8...RGBA8_SRGB...RGBA16F...states...
+Rendering UV normal...
+Rendering faceted UV normal...
+Rendering UV pos...
+Rendering smooth UV pos...
+Rendering UV GBuffer for TrainStation_LMA4 51
+RGBA32F...RGBA8...RGBA8_SRGB...RGBA16F...states...
+Rendering UV normal...
+Rendering faceted UV normal...
+Rendering UV pos...
+Rendering smooth UV pos...
+Rendering UV GBuffer for TrainStation_LMA5 51
+RGBA32F...RGBA8...RGBA8_SRGB...RGBA16F...states...
+Rendering UV normal...
+Rendering faceted UV normal...
+Rendering UV pos...
+Rendering smooth UV pos...
+Rendering UV GBuffer for TrainStation_LMA6 51
+RGBA32F...RGBA8...RGBA8_SRGB...RGBA16F...states...
+Rendering UV normal...
+Rendering faceted UV normal...
+Rendering UV pos...
+Rendering smooth UV pos...
+Rendering UV GBuffer for TrainStation_LMA7 51
+RGBA32F...RGBA8...RGBA8_SRGB...RGBA16F...states...
+Rendering UV normal...
+Rendering faceted UV normal...
+Rendering UV pos...
+Rendering smooth UV pos...
+Done
+Done
+Running ftrace fixpos12 "C:\Users\mrgal\AppData\Local\Temp\frender" "uvpos_TrainStation_LMA5.lz4" 2 0 5 0
+Running ftrace fixpos12 "C:\Users\mrgal\AppData\Local\Temp\frender" "uvpos_TrainStation_LMA3.lz4" 2 0 3 0
+Running ftrace fixpos12 "C:\Users\mrgal\AppData\Local\Temp\frender" "uvpos_TrainStation_LMA7.lz4" 2 0 7 0
+Running ftrace fixpos12 "C:\Users\mrgal\AppData\Local\Temp\frender" "uvpos_TrainStation_LMA6.lz4" 2 0 6 0
+Running ftrace fixpos12 "C:\Users\mrgal\AppData\Local\Temp\frender" "uvpos_TrainStation_LMA4.lz4" 2 0 4 0
+Running ftrace fixpos12 "C:\Users\mrgal\AppData\Local\Temp\frender" "uvpos_TrainStation_LMA2.lz4" 2 0 2 0
+Running ftrace fixpos12 "C:\Users\mrgal\AppData\Local\Temp\frender" "uvpos_TrainStation_LMA1.lz4" 2 0 1 0
+Running ftrace fixpos12 "C:\Users\mrgal\AppData\Local\Temp\frender" "uvpos_TrainStation_LM0.lz4" 2 0 0 0
+Running ftrace batchpointlight "C:\Users\mrgal\AppData\Local\Temp\frender" "PointBatch_5_0_45" 4 0 5 batchpointlight_5_0_45.bin
+Running ftrace sun "C:\Users\mrgal\AppData\Local\Temp\frender" "light_-1171822467_5" 4 0 5 direct0.bin
+Running ftrace sun "C:\Users\mrgal\AppData\Local\Temp\frender" "light_-217659477_5" 4 0 5 direct1.bin
+Running ftrace addmul "C:\Users\mrgal\AppData\Local\Temp\frender" "TrainStation_LMA5" 4 0 5 comp_5.bin
+Running ftrace batchpointlight "C:\Users\mrgal\AppData\Local\Temp\frender" "PointBatch_3_0_45" 4 0 3 batchpointlight_3_0_45.bin
+Running ftrace sun "C:\Users\mrgal\AppData\Local\Temp\frender" "light_-1171822467_3" 4 0 3 direct0.bin
+Running ftrace sun "C:\Users\mrgal\AppData\Local\Temp\frender" "light_-217659477_3" 4 0 3 direct1.bin
+Running ftrace addmul "C:\Users\mrgal\AppData\Local\Temp\frender" "TrainStation_LMA3" 4 0 3 comp_3.bin
+Running ftrace batchpointlight "C:\Users\mrgal\AppData\Local\Temp\frender" "PointBatch_7_0_45" 4 0 7 batchpointlight_7_0_45.bin
+Running ftrace sun "C:\Users\mrgal\AppData\Local\Temp\frender" "light_-1171822467_7" 4 0 7 direct0.bin
+Running ftrace sun "C:\Users\mrgal\AppData\Local\Temp\frender" "light_-217659477_7" 4 0 7 direct1.bin
+Running ftrace addmul "C:\Users\mrgal\AppData\Local\Temp\frender" "TrainStation_LMA7" 4 0 7 comp_7.bin
+Running ftrace batchpointlight "C:\Users\mrgal\AppData\Local\Temp\frender" "PointBatch_6_0_45" 4 0 6 batchpointlight_6_0_45.bin
+Running ftrace sun "C:\Users\mrgal\AppData\Local\Temp\frender" "light_-1171822467_6" 4 0 6 direct0.bin
+Running ftrace sun "C:\Users\mrgal\AppData\Local\Temp\frender" "light_-217659477_6" 4 0 6 direct1.bin
+Running ftrace addmul "C:\Users\mrgal\AppData\Local\Temp\frender" "TrainStation_LMA6" 4 0 6 comp_6.bin
+Running ftrace batchpointlight "C:\Users\mrgal\AppData\Local\Temp\frender" "PointBatch_4_0_45" 4 0 4 batchpointlight_4_0_45.bin
+Running ftrace sun "C:\Users\mrgal\AppData\Local\Temp\frender" "light_-1171822467_4" 4 0 4 direct0.bin
+Running ftrace sun "C:\Users\mrgal\AppData\Local\Temp\frender" "light_-217659477_4" 4 0 4 direct1.bin
+Running ftrace addmul "C:\Users\mrgal\AppData\Local\Temp\frender" "TrainStation_LMA4" 4 0 4 comp_4.bin
+Running ftrace batchpointlight "C:\Users\mrgal\AppData\Local\Temp\frender" "PointBatch_2_0_45" 4 0 2 batchpointlight_2_0_45.bin
+Running ftrace sun "C:\Users\mrgal\AppData\Local\Temp\frender" "light_-1171822467_2" 4 0 2 direct0.bin
+Running ftrace sun "C:\Users\mrgal\AppData\Local\Temp\frender" "light_-217659477_2" 4 0 2 direct1.bin
+Running ftrace addmul "C:\Users\mrgal\AppData\Local\Temp\frender" "TrainStation_LMA2" 4 0 2 comp_2.bin
+Running ftrace batchpointlight "C:\Users\mrgal\AppData\Local\Temp\frender" "PointBatch_1_0_45" 4 0 1 batchpointlight_1_0_45.bin
+Running ftrace sun "C:\Users\mrgal\AppData\Local\Temp\frender" "light_-1171822467_1" 4 0 1 direct0.bin
+Running ftrace sun "C:\Users\mrgal\AppData\Local\Temp\frender" "light_-217659477_1" 4 0 1 direct1.bin
+Running ftrace addmul "C:\Users\mrgal\AppData\Local\Temp\frender" "TrainStation_LMA1" 4 0 1 comp_1.bin
+Running ftrace sun "C:\Users\mrgal\AppData\Local\Temp\frender" "light_-1171822467_0" 4 0 0 direct0.bin
+Running ftrace sun "C:\Users\mrgal\AppData\Local\Temp\frender" "light_-217659477_0" 4 0 0 direct1.bin
+Running ftrace addmul "C:\Users\mrgal\AppData\Local\Temp\frender" "TrainStation_LM0" 4 0 0 comp_0.bin
+Running ftrace texgi "C:\Users\mrgal\AppData\Local\Temp\frender" "TrainStation_LMA5_diffuse" 4 16 5 "gi_TrainStation_LMA50.bin" "TrainStation_LMA5_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\mrgal\AppData\Local\Temp\frender" "TrainStation_LMA3_diffuse" 4 16 3 "gi_TrainStation_LMA30.bin" "TrainStation_LMA3_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\mrgal\AppData\Local\Temp\frender" "TrainStation_LMA7_diffuse" 4 16 7 "gi_TrainStation_LMA70.bin" "TrainStation_LMA7_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\mrgal\AppData\Local\Temp\frender" "TrainStation_LMA6_diffuse" 4 16 6 "gi_TrainStation_LMA60.bin" "TrainStation_LMA6_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\mrgal\AppData\Local\Temp\frender" "TrainStation_LMA4_diffuse" 4 16 4 "gi_TrainStation_LMA40.bin" "TrainStation_LMA4_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\mrgal\AppData\Local\Temp\frender" "TrainStation_LMA2_diffuse" 4 16 2 "gi_TrainStation_LMA20.bin" "TrainStation_LMA2_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\mrgal\AppData\Local\Temp\frender" "TrainStation_LMA1_diffuse" 4 16 1 "gi_TrainStation_LMA10.bin" "TrainStation_LMA1_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\mrgal\AppData\Local\Temp\frender" "TrainStation_LM0_diffuse" 4 16 0 "gi_TrainStation_LM00.bin" "TrainStation_LM0_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\mrgal\AppData\Local\Temp\frender" "TrainStation_LMA5_diffuse" 4 16 5 "gi_TrainStation_LMA51.bin" "TrainStation_LMA5_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\mrgal\AppData\Local\Temp\frender" "TrainStation_LMA3_diffuse" 4 16 3 "gi_TrainStation_LMA31.bin" "TrainStation_LMA3_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\mrgal\AppData\Local\Temp\frender" "TrainStation_LMA7_diffuse" 4 16 7 "gi_TrainStation_LMA71.bin" "TrainStation_LMA7_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\mrgal\AppData\Local\Temp\frender" "TrainStation_LMA6_diffuse" 4 16 6 "gi_TrainStation_LMA61.bin" "TrainStation_LMA6_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\mrgal\AppData\Local\Temp\frender" "TrainStation_LMA4_diffuse" 4 16 4 "gi_TrainStation_LMA41.bin" "TrainStation_LMA4_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\mrgal\AppData\Local\Temp\frender" "TrainStation_LMA2_diffuse" 4 16 2 "gi_TrainStation_LMA21.bin" "TrainStation_LMA2_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\mrgal\AppData\Local\Temp\frender" "TrainStation_LMA1_diffuse" 4 16 1 "gi_TrainStation_LMA11.bin" "TrainStation_LMA1_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\mrgal\AppData\Local\Temp\frender" "TrainStation_LM0_diffuse" 4 16 0 "gi_TrainStation_LM01.bin" "TrainStation_LM0_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\mrgal\AppData\Local\Temp\frender" "TrainStation_LMA5_diffuse" 4 16 5 "gi_TrainStation_LMA52.bin" "TrainStation_LMA5_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\mrgal\AppData\Local\Temp\frender" "TrainStation_LMA3_diffuse" 4 16 3 "gi_TrainStation_LMA32.bin" "TrainStation_LMA3_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\mrgal\AppData\Local\Temp\frender" "TrainStation_LMA7_diffuse" 4 16 7 "gi_TrainStation_LMA72.bin" "TrainStation_LMA7_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\mrgal\AppData\Local\Temp\frender" "TrainStation_LMA6_diffuse" 4 16 6 "gi_TrainStation_LMA62.bin" "TrainStation_LMA6_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\mrgal\AppData\Local\Temp\frender" "TrainStation_LMA4_diffuse" 4 16 4 "gi_TrainStation_LMA42.bin" "TrainStation_LMA4_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\mrgal\AppData\Local\Temp\frender" "TrainStation_LMA2_diffuse" 4 16 2 "gi_TrainStation_LMA22.bin" "TrainStation_LMA2_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\mrgal\AppData\Local\Temp\frender" "TrainStation_LMA1_diffuse" 4 16 1 "gi_TrainStation_LMA12.bin" "TrainStation_LMA1_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\mrgal\AppData\Local\Temp\frender" "TrainStation_LM0_diffuse" 4 16 0 "gi_TrainStation_LM02.bin" "TrainStation_LM0_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\mrgal\AppData\Local\Temp\frender" "TrainStation_LMA5_diffuse" 4 16 5 "gi_TrainStation_LMA53.bin" "TrainStation_LMA5_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\mrgal\AppData\Local\Temp\frender" "TrainStation_LMA3_diffuse" 4 16 3 "gi_TrainStation_LMA33.bin" "TrainStation_LMA3_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\mrgal\AppData\Local\Temp\frender" "TrainStation_LMA7_diffuse" 4 16 7 "gi_TrainStation_LMA73.bin" "TrainStation_LMA7_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\mrgal\AppData\Local\Temp\frender" "TrainStation_LMA6_diffuse" 4 16 6 "gi_TrainStation_LMA63.bin" "TrainStation_LMA6_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\mrgal\AppData\Local\Temp\frender" "TrainStation_LMA4_diffuse" 4 16 4 "gi_TrainStation_LMA43.bin" "TrainStation_LMA4_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\mrgal\AppData\Local\Temp\frender" "TrainStation_LMA2_diffuse" 4 16 2 "gi_TrainStation_LMA23.bin" "TrainStation_LMA2_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\mrgal\AppData\Local\Temp\frender" "TrainStation_LMA1_diffuse" 4 16 1 "gi_TrainStation_LMA13.bin" "TrainStation_LMA1_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\mrgal\AppData\Local\Temp\frender" "TrainStation_LM0_diffuse" 4 16 0 "gi_TrainStation_LM03.bin" "TrainStation_LM0_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\mrgal\AppData\Local\Temp\frender" "TrainStation_LMA5_final" 4 16 5 "gi_TrainStation_LMA54.bin" "TrainStation_LMA5_lights_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\mrgal\AppData\Local\Temp\frender" "TrainStation_LMA3_final" 4 16 3 "gi_TrainStation_LMA34.bin" "TrainStation_LMA3_lights_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\mrgal\AppData\Local\Temp\frender" "TrainStation_LMA7_final" 4 16 7 "gi_TrainStation_LMA74.bin" "TrainStation_LMA7_lights_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\mrgal\AppData\Local\Temp\frender" "TrainStation_LMA6_final" 4 16 6 "gi_TrainStation_LMA64.bin" "TrainStation_LMA6_lights_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\mrgal\AppData\Local\Temp\frender" "TrainStation_LMA4_final" 4 16 4 "gi_TrainStation_LMA44.bin" "TrainStation_LMA4_lights_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\mrgal\AppData\Local\Temp\frender" "TrainStation_LMA2_final" 4 16 2 "gi_TrainStation_LMA24.bin" "TrainStation_LMA2_lights_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\mrgal\AppData\Local\Temp\frender" "TrainStation_LMA1_final" 4 16 1 "gi_TrainStation_LMA14.bin" "TrainStation_LMA1_lights_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\mrgal\AppData\Local\Temp\frender" "TrainStation_LM0_final" 4 16 0 "gi_TrainStation_LM04.bin" "TrainStation_LM0_lights_HDR.lz4" vbTraceTex.bin
+Running denoiser "C:\Users\mrgal\AppData\Local\Temp\frender/TrainStation_LMA5_final_HDR.lz4" "C:\Users\mrgal\AppData\Local\Temp\frender/TrainStation_LMA5_final_HDR.lz4" 4096 0
+Running seamfixer "C:\Users\mrgal\AppData\Local\Temp\frender" "5" "TrainStation_LMA5_final_HDR.lz4"
+Running denoiser "C:\Users\mrgal\AppData\Local\Temp\frender/TrainStation_LMA3_final_HDR.lz4" "C:\Users\mrgal\AppData\Local\Temp\frender/TrainStation_LMA3_final_HDR.lz4" 4096 0
+Running seamfixer "C:\Users\mrgal\AppData\Local\Temp\frender" "3" "TrainStation_LMA3_final_HDR.lz4"
+Running denoiser "C:\Users\mrgal\AppData\Local\Temp\frender/TrainStation_LMA7_final_HDR.lz4" "C:\Users\mrgal\AppData\Local\Temp\frender/TrainStation_LMA7_final_HDR.lz4" 4096 0
+Running seamfixer "C:\Users\mrgal\AppData\Local\Temp\frender" "7" "TrainStation_LMA7_final_HDR.lz4"
+Running denoiser "C:\Users\mrgal\AppData\Local\Temp\frender/TrainStation_LMA6_final_HDR.lz4" "C:\Users\mrgal\AppData\Local\Temp\frender/TrainStation_LMA6_final_HDR.lz4" 4096 0
+Running seamfixer "C:\Users\mrgal\AppData\Local\Temp\frender" "6" "TrainStation_LMA6_final_HDR.lz4"
+Running denoiser "C:\Users\mrgal\AppData\Local\Temp\frender/TrainStation_LMA4_final_HDR.lz4" "C:\Users\mrgal\AppData\Local\Temp\frender/TrainStation_LMA4_final_HDR.lz4" 4096 0
+Running seamfixer "C:\Users\mrgal\AppData\Local\Temp\frender" "4" "TrainStation_LMA4_final_HDR.lz4"
+Running denoiser "C:\Users\mrgal\AppData\Local\Temp\frender/TrainStation_LMA2_final_HDR.lz4" "C:\Users\mrgal\AppData\Local\Temp\frender/TrainStation_LMA2_final_HDR.lz4" 4096 0
+Running seamfixer "C:\Users\mrgal\AppData\Local\Temp\frender" "2" "TrainStation_LMA2_final_HDR.lz4"
+Running denoiser "C:\Users\mrgal\AppData\Local\Temp\frender/TrainStation_LMA1_final_HDR.lz4" "C:\Users\mrgal\AppData\Local\Temp\frender/TrainStation_LMA1_final_HDR.lz4" 4096 0
+Running seamfixer "C:\Users\mrgal\AppData\Local\Temp\frender" "1" "TrainStation_LMA1_final_HDR.lz4"
+Running denoiser "C:\Users\mrgal\AppData\Local\Temp\frender/TrainStation_LM0_final_HDR.lz4" "C:\Users\mrgal\AppData\Local\Temp\frender/TrainStation_LM0_final_HDR.lz4" 4096 0
+Running seamfixer "C:\Users\mrgal\AppData\Local\Temp\frender" "0" "TrainStation_LM0_final_HDR.lz4"
+Running halffloat2hdr "C:\Users\mrgal\AppData\Local\Temp\frender/TrainStation_LMA5_final_HDR.lz4" "C:/Escritorio/Trabajo/ProyectosProfesionales/Videojuegos/Unity/Proyecto/Assets/BakeryLightmaps/TrainStation_LMA5_final.hdr"
+Running halffloat2hdr "C:\Users\mrgal\AppData\Local\Temp\frender/TrainStation_LMA3_final_HDR.lz4" "C:/Escritorio/Trabajo/ProyectosProfesionales/Videojuegos/Unity/Proyecto/Assets/BakeryLightmaps/TrainStation_LMA3_final.hdr"
+Running halffloat2hdr "C:\Users\mrgal\AppData\Local\Temp\frender/TrainStation_LMA7_final_HDR.lz4" "C:/Escritorio/Trabajo/ProyectosProfesionales/Videojuegos/Unity/Proyecto/Assets/BakeryLightmaps/TrainStation_LMA7_final.hdr"
+Running halffloat2hdr "C:\Users\mrgal\AppData\Local\Temp\frender/TrainStation_LMA6_final_HDR.lz4" "C:/Escritorio/Trabajo/ProyectosProfesionales/Videojuegos/Unity/Proyecto/Assets/BakeryLightmaps/TrainStation_LMA6_final.hdr"
+Running halffloat2hdr "C:\Users\mrgal\AppData\Local\Temp\frender/TrainStation_LMA4_final_HDR.lz4" "C:/Escritorio/Trabajo/ProyectosProfesionales/Videojuegos/Unity/Proyecto/Assets/BakeryLightmaps/TrainStation_LMA4_final.hdr"
+Running halffloat2hdr "C:\Users\mrgal\AppData\Local\Temp\frender/TrainStation_LMA2_final_HDR.lz4" "C:/Escritorio/Trabajo/ProyectosProfesionales/Videojuegos/Unity/Proyecto/Assets/BakeryLightmaps/TrainStation_LMA2_final.hdr"
+Running halffloat2hdr "C:\Users\mrgal\AppData\Local\Temp\frender/TrainStation_LMA1_final_HDR.lz4" "C:/Escritorio/Trabajo/ProyectosProfesionales/Videojuegos/Unity/Proyecto/Assets/BakeryLightmaps/TrainStation_LMA1_final.hdr"
+Running halffloat2hdr "C:\Users\mrgal\AppData\Local\Temp\frender/TrainStation_LM0_final_HDR.lz4" "C:/Escritorio/Trabajo/ProyectosProfesionales/Videojuegos/Unity/Proyecto/Assets/BakeryLightmaps/TrainStation_LM0_final.hdr"
+Symbol file LoadedFromMemory doesn't match image C:\Escritorio\Trabajo\ProyectosProfesionales\Videojuegos\Unity\Proyecto\Library\PackageCache\com.unity.visualscripting@1.8.0\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\Escritorio\Trabajo\ProyectosProfesionales\Videojuegos\Unity\Proyecto\Library\PackageCache\com.unity.visualscripting@1.8.0\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+2023-4-28
+Rendering UV GBuffer for TrainStation_LM0 51
+RGBA32F...RGBA8...RGBA8_SRGB...RGBA16F...states...
+Rendering UV normal...
+Rendering faceted UV normal...
+Rendering UV pos...
+Rendering smooth UV pos...
+Rendering UV GBuffer for TrainStation_LMA1 51
+RGBA32F...RGBA8...RGBA8_SRGB...RGBA16F...states...
+Rendering UV normal...
+Rendering faceted UV normal...
+Rendering UV pos...
+Rendering smooth UV pos...
+Rendering UV GBuffer for TrainStation_LMA2 51
+RGBA32F...RGBA8...RGBA8_SRGB...RGBA16F...states...
+Rendering UV normal...
+Rendering faceted UV normal...
+Rendering UV pos...
+Rendering smooth UV pos...
+Rendering UV GBuffer for TrainStation_LMA3 51
+RGBA32F...RGBA8...RGBA8_SRGB...RGBA16F...states...
+Rendering UV normal...
+Rendering faceted UV normal...
+Rendering UV pos...
+Rendering smooth UV pos...
+Rendering UV GBuffer for TrainStation_LMA4 51
+RGBA32F...RGBA8...RGBA8_SRGB...RGBA16F...states...
+Rendering UV normal...
+Rendering faceted UV normal...
+Rendering UV pos...
+Rendering smooth UV pos...
+Rendering UV GBuffer for TrainStation_LMA5 51
+RGBA32F...RGBA8...RGBA8_SRGB...RGBA16F...states...
+Rendering UV normal...
+Rendering faceted UV normal...
+Rendering UV pos...
+Rendering smooth UV pos...
+Rendering UV GBuffer for TrainStation_LMA6 51
+RGBA32F...RGBA8...RGBA8_SRGB...RGBA16F...states...
+Rendering UV normal...
+Rendering faceted UV normal...
+Rendering UV pos...
+Rendering smooth UV pos...
+Rendering UV GBuffer for TrainStation_LMA7 51
+RGBA32F...RGBA8...RGBA8_SRGB...RGBA16F...states...
+Rendering UV normal...
+Rendering faceted UV normal...
+Rendering UV pos...
+Rendering smooth UV pos...
+Done
+Done
+Running ftrace fixpos12 "C:\Users\mrgal\AppData\Local\Temp\frender" "uvpos_TrainStation_LMA5.lz4" 2 0 5 0
+Running ftrace fixpos12 "C:\Users\mrgal\AppData\Local\Temp\frender" "uvpos_TrainStation_LMA3.lz4" 2 0 3 0
+Running ftrace fixpos12 "C:\Users\mrgal\AppData\Local\Temp\frender" "uvpos_TrainStation_LMA7.lz4" 2 0 7 0
+Running ftrace fixpos12 "C:\Users\mrgal\AppData\Local\Temp\frender" "uvpos_TrainStation_LMA6.lz4" 2 0 6 0
+Running ftrace fixpos12 "C:\Users\mrgal\AppData\Local\Temp\frender" "uvpos_TrainStation_LMA4.lz4" 2 0 4 0
+Running ftrace fixpos12 "C:\Users\mrgal\AppData\Local\Temp\frender" "uvpos_TrainStation_LMA2.lz4" 2 0 2 0
+Running ftrace fixpos12 "C:\Users\mrgal\AppData\Local\Temp\frender" "uvpos_TrainStation_LMA1.lz4" 2 0 1 0
+Running ftrace fixpos12 "C:\Users\mrgal\AppData\Local\Temp\frender" "uvpos_TrainStation_LM0.lz4" 2 0 0 0
+Running ftrace batchpointlight "C:\Users\mrgal\AppData\Local\Temp\frender" "PointBatch_5_0_45" 4 0 5 batchpointlight_5_0_45.bin
+Running ftrace sun "C:\Users\mrgal\AppData\Local\Temp\frender" "light_-217659477_5" 4 0 5 direct0.bin
+Running ftrace sun "C:\Users\mrgal\AppData\Local\Temp\frender" "light_-1171822467_5" 4 0 5 direct1.bin
+Running ftrace addmul "C:\Users\mrgal\AppData\Local\Temp\frender" "TrainStation_LMA5" 4 0 5 comp_5.bin
+Running ftrace batchpointlight "C:\Users\mrgal\AppData\Local\Temp\frender" "PointBatch_3_0_45" 4 0 3 batchpointlight_3_0_45.bin
+Running ftrace sun "C:\Users\mrgal\AppData\Local\Temp\frender" "light_-217659477_3" 4 0 3 direct0.bin
+Running ftrace sun "C:\Users\mrgal\AppData\Local\Temp\frender" "light_-1171822467_3" 4 0 3 direct1.bin
+Running ftrace addmul "C:\Users\mrgal\AppData\Local\Temp\frender" "TrainStation_LMA3" 4 0 3 comp_3.bin
+Running ftrace batchpointlight "C:\Users\mrgal\AppData\Local\Temp\frender" "PointBatch_7_0_45" 4 0 7 batchpointlight_7_0_45.bin
+Running ftrace sun "C:\Users\mrgal\AppData\Local\Temp\frender" "light_-217659477_7" 4 0 7 direct0.bin
+Running ftrace sun "C:\Users\mrgal\AppData\Local\Temp\frender" "light_-1171822467_7" 4 0 7 direct1.bin
+Running ftrace addmul "C:\Users\mrgal\AppData\Local\Temp\frender" "TrainStation_LMA7" 4 0 7 comp_7.bin
+Running ftrace batchpointlight "C:\Users\mrgal\AppData\Local\Temp\frender" "PointBatch_6_0_45" 4 0 6 batchpointlight_6_0_45.bin
+Running ftrace sun "C:\Users\mrgal\AppData\Local\Temp\frender" "light_-217659477_6" 4 0 6 direct0.bin
+Running ftrace sun "C:\Users\mrgal\AppData\Local\Temp\frender" "light_-1171822467_6" 4 0 6 direct1.bin
+Running ftrace addmul "C:\Users\mrgal\AppData\Local\Temp\frender" "TrainStation_LMA6" 4 0 6 comp_6.bin
+Running ftrace batchpointlight "C:\Users\mrgal\AppData\Local\Temp\frender" "PointBatch_4_0_45" 4 0 4 batchpointlight_4_0_45.bin
+Running ftrace sun "C:\Users\mrgal\AppData\Local\Temp\frender" "light_-217659477_4" 4 0 4 direct0.bin
+Running ftrace sun "C:\Users\mrgal\AppData\Local\Temp\frender" "light_-1171822467_4" 4 0 4 direct1.bin
+Running ftrace addmul "C:\Users\mrgal\AppData\Local\Temp\frender" "TrainStation_LMA4" 4 0 4 comp_4.bin
+Running ftrace batchpointlight "C:\Users\mrgal\AppData\Local\Temp\frender" "PointBatch_2_0_45" 4 0 2 batchpointlight_2_0_45.bin
+Running ftrace sun "C:\Users\mrgal\AppData\Local\Temp\frender" "light_-217659477_2" 4 0 2 direct0.bin
+Running ftrace sun "C:\Users\mrgal\AppData\Local\Temp\frender" "light_-1171822467_2" 4 0 2 direct1.bin
+Running ftrace addmul "C:\Users\mrgal\AppData\Local\Temp\frender" "TrainStation_LMA2" 4 0 2 comp_2.bin
+Running ftrace batchpointlight "C:\Users\mrgal\AppData\Local\Temp\frender" "PointBatch_1_0_45" 4 0 1 batchpointlight_1_0_45.bin
+Running ftrace sun "C:\Users\mrgal\AppData\Local\Temp\frender" "light_-217659477_1" 4 0 1 direct0.bin
+Running ftrace sun "C:\Users\mrgal\AppData\Local\Temp\frender" "light_-1171822467_1" 4 0 1 direct1.bin
+Running ftrace addmul "C:\Users\mrgal\AppData\Local\Temp\frender" "TrainStation_LMA1" 4 0 1 comp_1.bin
+Running ftrace sun "C:\Users\mrgal\AppData\Local\Temp\frender" "light_-217659477_0" 4 0 0 direct0.bin
+Running ftrace sun "C:\Users\mrgal\AppData\Local\Temp\frender" "light_-1171822467_0" 4 0 0 direct1.bin
+Running ftrace addmul "C:\Users\mrgal\AppData\Local\Temp\frender" "TrainStation_LM0" 4 0 0 comp_0.bin
+Running ftrace texgi "C:\Users\mrgal\AppData\Local\Temp\frender" "TrainStation_LMA5_diffuse" 4 16 5 "gi_TrainStation_LMA50.bin" "TrainStation_LMA5_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\mrgal\AppData\Local\Temp\frender" "TrainStation_LMA3_diffuse" 4 16 3 "gi_TrainStation_LMA30.bin" "TrainStation_LMA3_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\mrgal\AppData\Local\Temp\frender" "TrainStation_LMA7_diffuse" 4 16 7 "gi_TrainStation_LMA70.bin" "TrainStation_LMA7_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\mrgal\AppData\Local\Temp\frender" "TrainStation_LMA6_diffuse" 4 16 6 "gi_TrainStation_LMA60.bin" "TrainStation_LMA6_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\mrgal\AppData\Local\Temp\frender" "TrainStation_LMA4_diffuse" 4 16 4 "gi_TrainStation_LMA40.bin" "TrainStation_LMA4_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\mrgal\AppData\Local\Temp\frender" "TrainStation_LMA2_diffuse" 4 16 2 "gi_TrainStation_LMA20.bin" "TrainStation_LMA2_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\mrgal\AppData\Local\Temp\frender" "TrainStation_LMA1_diffuse" 4 16 1 "gi_TrainStation_LMA10.bin" "TrainStation_LMA1_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\mrgal\AppData\Local\Temp\frender" "TrainStation_LM0_diffuse" 4 16 0 "gi_TrainStation_LM00.bin" "TrainStation_LM0_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\mrgal\AppData\Local\Temp\frender" "TrainStation_LMA5_diffuse" 4 16 5 "gi_TrainStation_LMA51.bin" "TrainStation_LMA5_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\mrgal\AppData\Local\Temp\frender" "TrainStation_LMA3_diffuse" 4 16 3 "gi_TrainStation_LMA31.bin" "TrainStation_LMA3_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\mrgal\AppData\Local\Temp\frender" "TrainStation_LMA7_diffuse" 4 16 7 "gi_TrainStation_LMA71.bin" "TrainStation_LMA7_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\mrgal\AppData\Local\Temp\frender" "TrainStation_LMA6_diffuse" 4 16 6 "gi_TrainStation_LMA61.bin" "TrainStation_LMA6_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\mrgal\AppData\Local\Temp\frender" "TrainStation_LMA4_diffuse" 4 16 4 "gi_TrainStation_LMA41.bin" "TrainStation_LMA4_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\mrgal\AppData\Local\Temp\frender" "TrainStation_LMA2_diffuse" 4 16 2 "gi_TrainStation_LMA21.bin" "TrainStation_LMA2_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\mrgal\AppData\Local\Temp\frender" "TrainStation_LMA1_diffuse" 4 16 1 "gi_TrainStation_LMA11.bin" "TrainStation_LMA1_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\mrgal\AppData\Local\Temp\frender" "TrainStation_LM0_diffuse" 4 16 0 "gi_TrainStation_LM01.bin" "TrainStation_LM0_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\mrgal\AppData\Local\Temp\frender" "TrainStation_LMA5_diffuse" 4 16 5 "gi_TrainStation_LMA52.bin" "TrainStation_LMA5_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\mrgal\AppData\Local\Temp\frender" "TrainStation_LMA3_diffuse" 4 16 3 "gi_TrainStation_LMA32.bin" "TrainStation_LMA3_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\mrgal\AppData\Local\Temp\frender" "TrainStation_LMA7_diffuse" 4 16 7 "gi_TrainStation_LMA72.bin" "TrainStation_LMA7_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\mrgal\AppData\Local\Temp\frender" "TrainStation_LMA6_diffuse" 4 16 6 "gi_TrainStation_LMA62.bin" "TrainStation_LMA6_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\mrgal\AppData\Local\Temp\frender" "TrainStation_LMA4_diffuse" 4 16 4 "gi_TrainStation_LMA42.bin" "TrainStation_LMA4_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\mrgal\AppData\Local\Temp\frender" "TrainStation_LMA2_diffuse" 4 16 2 "gi_TrainStation_LMA22.bin" "TrainStation_LMA2_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\mrgal\AppData\Local\Temp\frender" "TrainStation_LMA1_diffuse" 4 16 1 "gi_TrainStation_LMA12.bin" "TrainStation_LMA1_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\mrgal\AppData\Local\Temp\frender" "TrainStation_LM0_diffuse" 4 16 0 "gi_TrainStation_LM02.bin" "TrainStation_LM0_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\mrgal\AppData\Local\Temp\frender" "TrainStation_LMA5_diffuse" 4 16 5 "gi_TrainStation_LMA53.bin" "TrainStation_LMA5_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\mrgal\AppData\Local\Temp\frender" "TrainStation_LMA3_diffuse" 4 16 3 "gi_TrainStation_LMA33.bin" "TrainStation_LMA3_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\mrgal\AppData\Local\Temp\frender" "TrainStation_LMA7_diffuse" 4 16 7 "gi_TrainStation_LMA73.bin" "TrainStation_LMA7_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\mrgal\AppData\Local\Temp\frender" "TrainStation_LMA6_diffuse" 4 16 6 "gi_TrainStation_LMA63.bin" "TrainStation_LMA6_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\mrgal\AppData\Local\Temp\frender" "TrainStation_LMA4_diffuse" 4 16 4 "gi_TrainStation_LMA43.bin" "TrainStation_LMA4_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\mrgal\AppData\Local\Temp\frender" "TrainStation_LMA2_diffuse" 4 16 2 "gi_TrainStation_LMA23.bin" "TrainStation_LMA2_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\mrgal\AppData\Local\Temp\frender" "TrainStation_LMA1_diffuse" 4 16 1 "gi_TrainStation_LMA13.bin" "TrainStation_LMA1_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\mrgal\AppData\Local\Temp\frender" "TrainStation_LM0_diffuse" 4 16 0 "gi_TrainStation_LM03.bin" "TrainStation_LM0_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\mrgal\AppData\Local\Temp\frender" "TrainStation_LMA5_final" 4 16 5 "gi_TrainStation_LMA54.bin" "TrainStation_LMA5_lights_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\mrgal\AppData\Local\Temp\frender" "TrainStation_LMA3_final" 4 16 3 "gi_TrainStation_LMA34.bin" "TrainStation_LMA3_lights_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\mrgal\AppData\Local\Temp\frender" "TrainStation_LMA7_final" 4 16 7 "gi_TrainStation_LMA74.bin" "TrainStation_LMA7_lights_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\mrgal\AppData\Local\Temp\frender" "TrainStation_LMA6_final" 4 16 6 "gi_TrainStation_LMA64.bin" "TrainStation_LMA6_lights_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\mrgal\AppData\Local\Temp\frender" "TrainStation_LMA4_final" 4 16 4 "gi_TrainStation_LMA44.bin" "TrainStation_LMA4_lights_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\mrgal\AppData\Local\Temp\frender" "TrainStation_LMA2_final" 4 16 2 "gi_TrainStation_LMA24.bin" "TrainStation_LMA2_lights_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\mrgal\AppData\Local\Temp\frender" "TrainStation_LMA1_final" 4 16 1 "gi_TrainStation_LMA14.bin" "TrainStation_LMA1_lights_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\mrgal\AppData\Local\Temp\frender" "TrainStation_LM0_final" 4 16 0 "gi_TrainStation_LM04.bin" "TrainStation_LM0_lights_HDR.lz4" vbTraceTex.bin
+Running denoiser "C:\Users\mrgal\AppData\Local\Temp\frender/TrainStation_LMA5_final_HDR.lz4" "C:\Users\mrgal\AppData\Local\Temp\frender/TrainStation_LMA5_final_HDR.lz4" 4096 0
+Running seamfixer "C:\Users\mrgal\AppData\Local\Temp\frender" "5" "TrainStation_LMA5_final_HDR.lz4"
+Running denoiser "C:\Users\mrgal\AppData\Local\Temp\frender/TrainStation_LMA3_final_HDR.lz4" "C:\Users\mrgal\AppData\Local\Temp\frender/TrainStation_LMA3_final_HDR.lz4" 4096 0
+Running seamfixer "C:\Users\mrgal\AppData\Local\Temp\frender" "3" "TrainStation_LMA3_final_HDR.lz4"
+Running denoiser "C:\Users\mrgal\AppData\Local\Temp\frender/TrainStation_LMA7_final_HDR.lz4" "C:\Users\mrgal\AppData\Local\Temp\frender/TrainStation_LMA7_final_HDR.lz4" 4096 0
+Running seamfixer "C:\Users\mrgal\AppData\Local\Temp\frender" "7" "TrainStation_LMA7_final_HDR.lz4"
+Running denoiser "C:\Users\mrgal\AppData\Local\Temp\frender/TrainStation_LMA6_final_HDR.lz4" "C:\Users\mrgal\AppData\Local\Temp\frender/TrainStation_LMA6_final_HDR.lz4" 4096 0
+Running seamfixer "C:\Users\mrgal\AppData\Local\Temp\frender" "6" "TrainStation_LMA6_final_HDR.lz4"
+Running denoiser "C:\Users\mrgal\AppData\Local\Temp\frender/TrainStation_LMA4_final_HDR.lz4" "C:\Users\mrgal\AppData\Local\Temp\frender/TrainStation_LMA4_final_HDR.lz4" 4096 0
+Running seamfixer "C:\Users\mrgal\AppData\Local\Temp\frender" "4" "TrainStation_LMA4_final_HDR.lz4"
+Running denoiser "C:\Users\mrgal\AppData\Local\Temp\frender/TrainStation_LMA2_final_HDR.lz4" "C:\Users\mrgal\AppData\Local\Temp\frender/TrainStation_LMA2_final_HDR.lz4" 4096 0
+Running seamfixer "C:\Users\mrgal\AppData\Local\Temp\frender" "2" "TrainStation_LMA2_final_HDR.lz4"
+Running denoiser "C:\Users\mrgal\AppData\Local\Temp\frender/TrainStation_LMA1_final_HDR.lz4" "C:\Users\mrgal\AppData\Local\Temp\frender/TrainStation_LMA1_final_HDR.lz4" 4096 0
+Running seamfixer "C:\Users\mrgal\AppData\Local\Temp\frender" "1" "TrainStation_LMA1_final_HDR.lz4"
+Running denoiser "C:\Users\mrgal\AppData\Local\Temp\frender/TrainStation_LM0_final_HDR.lz4" "C:\Users\mrgal\AppData\Local\Temp\frender/TrainStation_LM0_final_HDR.lz4" 4096 0
+Running seamfixer "C:\Users\mrgal\AppData\Local\Temp\frender" "0" "TrainStation_LM0_final_HDR.lz4"
+Running halffloat2hdr "C:\Users\mrgal\AppData\Local\Temp\frender/TrainStation_LMA5_final_HDR.lz4" "C:/Escritorio/Trabajo/ProyectosProfesionales/Videojuegos/Unity/Proyecto/Assets/BakeryLightmaps/TrainStation_LMA5_final.hdr"
+Running halffloat2hdr "C:\Users\mrgal\AppData\Local\Temp\frender/TrainStation_LMA3_final_HDR.lz4" "C:/Escritorio/Trabajo/ProyectosProfesionales/Videojuegos/Unity/Proyecto/Assets/BakeryLightmaps/TrainStation_LMA3_final.hdr"
+Running halffloat2hdr "C:\Users\mrgal\AppData\Local\Temp\frender/TrainStation_LMA7_final_HDR.lz4" "C:/Escritorio/Trabajo/ProyectosProfesionales/Videojuegos/Unity/Proyecto/Assets/BakeryLightmaps/TrainStation_LMA7_final.hdr"
+Running halffloat2hdr "C:\Users\mrgal\AppData\Local\Temp\frender/TrainStation_LMA6_final_HDR.lz4" "C:/Escritorio/Trabajo/ProyectosProfesionales/Videojuegos/Unity/Proyecto/Assets/BakeryLightmaps/TrainStation_LMA6_final.hdr"
+Running halffloat2hdr "C:\Users\mrgal\AppData\Local\Temp\frender/TrainStation_LMA4_final_HDR.lz4" "C:/Escritorio/Trabajo/ProyectosProfesionales/Videojuegos/Unity/Proyecto/Assets/BakeryLightmaps/TrainStation_LMA4_final.hdr"
+Running halffloat2hdr "C:\Users\mrgal\AppData\Local\Temp\frender/TrainStation_LMA2_final_HDR.lz4" "C:/Escritorio/Trabajo/ProyectosProfesionales/Videojuegos/Unity/Proyecto/Assets/BakeryLightmaps/TrainStation_LMA2_final.hdr"
+Running halffloat2hdr "C:\Users\mrgal\AppData\Local\Temp\frender/TrainStation_LMA1_final_HDR.lz4" "C:/Escritorio/Trabajo/ProyectosProfesionales/Videojuegos/Unity/Proyecto/Assets/BakeryLightmaps/TrainStation_LMA1_final.hdr"
+Running halffloat2hdr "C:\Users\mrgal\AppData\Local\Temp\frender/TrainStation_LM0_final_HDR.lz4" "C:/Escritorio/Trabajo/ProyectosProfesionales/Videojuegos/Unity/Proyecto/Assets/BakeryLightmaps/TrainStation_LM0_final.hdr"
+Symbol file LoadedFromMemory doesn't match image C:\Escritorio\Trabajo\ProyectosProfesionales\Videojuegos\Unity\Proyecto\Library\PackageCache\com.unity.visualscripting@1.8.0\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\Escritorio\Trabajo\ProyectosProfesionales\Videojuegos\Unity\Proyecto\Library\PackageCache\com.unity.visualscripting@1.8.0\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Symbol file LoadedFromMemory doesn't match image C:\Escritorio\Trabajo\ProyectosProfesionales\Videojuegos\Unity\Proyecto\Library\PackageCache\com.unity.visualscripting@1.8.0\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\Escritorio\Trabajo\ProyectosProfesionales\Videojuegos\Unity\Proyecto\Library\PackageCache\com.unity.visualscripting@1.8.0\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Symbol file LoadedFromMemory doesn't match image C:\Escritorio\Trabajo\ProyectosProfesionales\Videojuegos\Unity\Proyecto\Library\PackageCache\com.unity.visualscripting@1.8.0\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\Escritorio\Trabajo\ProyectosProfesionales\Videojuegos\Unity\Proyecto\Library\PackageCache\com.unity.visualscripting@1.8.0\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Loaded vertex shader: quad.vso
+Loaded pixel shader: skyOutput.pso
+Loaded pixel shader: cookieOutput.pso
+initShaders done
+initScene done
+Done
+Rendering UV GBuffer for TrainStation_LM0 51
+RGBA32F...RGBA8...RGBA8_SRGB...RGBA16F...states...
+Rendering UV normal...
+Rendering faceted UV normal...
+Rendering UV pos...
+Rendering smooth UV pos...
+Rendering UV GBuffer for TrainStation_LMA1 51
+RGBA32F...RGBA8...RGBA8_SRGB...RGBA16F...states...
+Rendering UV normal...
+Rendering faceted UV normal...
+Rendering UV pos...
+Rendering smooth UV pos...
+Rendering UV GBuffer for TrainStation_LMA2 51
+RGBA32F...RGBA8...RGBA8_SRGB...RGBA16F...states...
+Rendering UV normal...
+Rendering faceted UV normal...
+Rendering UV pos...
+Rendering smooth UV pos...
+Rendering UV GBuffer for TrainStation_LMA3 51
+RGBA32F...RGBA8...RGBA8_SRGB...RGBA16F...states...
+Rendering UV normal...
+Rendering faceted UV normal...
+Rendering UV pos...
+Rendering smooth UV pos...
+Rendering UV GBuffer for TrainStation_LMA4 51
+RGBA32F...RGBA8...RGBA8_SRGB...RGBA16F...states...
+Rendering UV normal...
+Rendering faceted UV normal...
+Rendering UV pos...
+Rendering smooth UV pos...
+Rendering UV GBuffer for TrainStation_LMA5 51
+RGBA32F...RGBA8...RGBA8_SRGB...RGBA16F...states...
+Rendering UV normal...
+Rendering faceted UV normal...
+Rendering UV pos...
+Rendering smooth UV pos...
+Rendering UV GBuffer for TrainStation_LMA6 51
+RGBA32F...RGBA8...RGBA8_SRGB...RGBA16F...states...
+Rendering UV normal...
+Rendering faceted UV normal...
+Rendering UV pos...
+Rendering smooth UV pos...
+Rendering UV GBuffer for TrainStation_LMA7 51
+RGBA32F...RGBA8...RGBA8_SRGB...RGBA16F...states...
+Rendering UV normal...
+Rendering faceted UV normal...
+Rendering UV pos...
+Rendering smooth UV pos...
+Done
+Done
+Running ftrace fixpos12 "C:\Users\mrgal\AppData\Local\Temp\frender" "uvpos_TrainStation_LMA5.lz4" 2 0 5 0
+Running ftrace fixpos12 "C:\Users\mrgal\AppData\Local\Temp\frender" "uvpos_TrainStation_LMA7.lz4" 2 0 7 0
+Running ftrace fixpos12 "C:\Users\mrgal\AppData\Local\Temp\frender" "uvpos_TrainStation_LMA3.lz4" 2 0 3 0
+Running ftrace fixpos12 "C:\Users\mrgal\AppData\Local\Temp\frender" "uvpos_TrainStation_LMA6.lz4" 2 0 6 0
+Running ftrace fixpos12 "C:\Users\mrgal\AppData\Local\Temp\frender" "uvpos_TrainStation_LMA4.lz4" 2 0 4 0
+Running ftrace fixpos12 "C:\Users\mrgal\AppData\Local\Temp\frender" "uvpos_TrainStation_LMA2.lz4" 2 0 2 0
+Running ftrace fixpos12 "C:\Users\mrgal\AppData\Local\Temp\frender" "uvpos_TrainStation_LMA1.lz4" 2 0 1 0
+Running ftrace fixpos12 "C:\Users\mrgal\AppData\Local\Temp\frender" "uvpos_TrainStation_LM0.lz4" 2 0 0 0
+Running ftrace batchpointlight "C:\Users\mrgal\AppData\Local\Temp\frender" "PointBatch_5_0_45" 4 0 5 batchpointlight_5_0_45.bin
+Running ftrace sun "C:\Users\mrgal\AppData\Local\Temp\frender" "light_-217659477_5" 4 0 5 direct0.bin
+Running ftrace sun "C:\Users\mrgal\AppData\Local\Temp\frender" "light_-1171822467_5" 4 0 5 direct1.bin
+Running ftrace addmul "C:\Users\mrgal\AppData\Local\Temp\frender" "TrainStation_LMA5" 4 0 5 comp_5.bin
+Running ftrace batchpointlight "C:\Users\mrgal\AppData\Local\Temp\frender" "PointBatch_7_0_45" 4 0 7 batchpointlight_7_0_45.bin
+Running ftrace sun "C:\Users\mrgal\AppData\Local\Temp\frender" "light_-217659477_7" 4 0 7 direct0.bin
+Running ftrace sun "C:\Users\mrgal\AppData\Local\Temp\frender" "light_-1171822467_7" 4 0 7 direct1.bin
+Running ftrace addmul "C:\Users\mrgal\AppData\Local\Temp\frender" "TrainStation_LMA7" 4 0 7 comp_7.bin
+Running ftrace batchpointlight "C:\Users\mrgal\AppData\Local\Temp\frender" "PointBatch_3_0_45" 4 0 3 batchpointlight_3_0_45.bin
+Running ftrace sun "C:\Users\mrgal\AppData\Local\Temp\frender" "light_-217659477_3" 4 0 3 direct0.bin
+Loaded vertex shader: quad.vso
+Loaded pixel shader: skyOutput.pso
+Loaded pixel shader: cookieOutput.pso
+initShaders done
+initScene done
+Done
+Rendering UV GBuffer for TrainStation_LM0 51
+RGBA32F...RGBA8...RGBA8_SRGB...RGBA16F...states...
+Rendering UV normal...
+Rendering faceted UV normal...
+Rendering UV pos...
+Rendering smooth UV pos...
+Rendering UV GBuffer for TrainStation_LMA1 51
+RGBA32F...RGBA8...RGBA8_SRGB...RGBA16F...states...
+Rendering UV normal...
+Rendering faceted UV normal...
+Rendering UV pos...
+Rendering smooth UV pos...
+Rendering UV GBuffer for TrainStation_LMA2 51
+RGBA32F...RGBA8...RGBA8_SRGB...RGBA16F...states...
+Rendering UV normal...
+Rendering faceted UV normal...
+Rendering UV pos...
+Rendering smooth UV pos...
+Rendering UV GBuffer for TrainStation_LMA3 51
+RGBA32F...RGBA8...RGBA8_SRGB...RGBA16F...states...
+Rendering UV normal...
+Rendering faceted UV normal...
+Rendering UV pos...
+Rendering smooth UV pos...
+Rendering UV GBuffer for TrainStation_LMA4 51
+RGBA32F...RGBA8...RGBA8_SRGB...RGBA16F...states...
+Rendering UV normal...
+Rendering faceted UV normal...
+Rendering UV pos...
+Rendering smooth UV pos...
+Rendering UV GBuffer for TrainStation_LMA5 51
+RGBA32F...RGBA8...RGBA8_SRGB...RGBA16F...states...
+Rendering UV normal...
+Rendering faceted UV normal...
+Rendering UV pos...
+Rendering smooth UV pos...
+Rendering UV GBuffer for TrainStation_LMA6 51
+RGBA32F...RGBA8...RGBA8_SRGB...RGBA16F...states...
+Rendering UV normal...
+Rendering faceted UV normal...
+Rendering UV pos...
+Rendering smooth UV pos...
+Rendering UV GBuffer for TrainStation_LMA7 51
+RGBA32F...RGBA8...RGBA8_SRGB...RGBA16F...states...
+Rendering UV normal...
+Rendering faceted UV normal...
+Rendering UV pos...
+Rendering smooth UV pos...
+Done
+Done
+Running ftrace fixpos12 "C:\Users\mrgal\AppData\Local\Temp\frender" "uvpos_TrainStation_LMA5.lz4" 2 0 5 0
+Running ftrace fixpos12 "C:\Users\mrgal\AppData\Local\Temp\frender" "uvpos_TrainStation_LMA7.lz4" 2 0 7 0
+Running ftrace fixpos12 "C:\Users\mrgal\AppData\Local\Temp\frender" "uvpos_TrainStation_LMA3.lz4" 2 0 3 0
+Running ftrace fixpos12 "C:\Users\mrgal\AppData\Local\Temp\frender" "uvpos_TrainStation_LMA6.lz4" 2 0 6 0
+Running ftrace fixpos12 "C:\Users\mrgal\AppData\Local\Temp\frender" "uvpos_TrainStation_LMA4.lz4" 2 0 4 0
+Running ftrace fixpos12 "C:\Users\mrgal\AppData\Local\Temp\frender" "uvpos_TrainStation_LMA2.lz4" 2 0 2 0
+Running ftrace fixpos12 "C:\Users\mrgal\AppData\Local\Temp\frender" "uvpos_TrainStation_LMA1.lz4" 2 0 1 0
+Running ftrace fixpos12 "C:\Users\mrgal\AppData\Local\Temp\frender" "uvpos_TrainStation_LM0.lz4" 2 0 0 0
+Running ftrace batchpointlight "C:\Users\mrgal\AppData\Local\Temp\frender" "PointBatch_5_0_45" 4 0 5 batchpointlight_5_0_45.bin
+Running ftrace sun "C:\Users\mrgal\AppData\Local\Temp\frender" "light_-217659477_5" 4 0 5 direct0.bin
+Running ftrace sun "C:\Users\mrgal\AppData\Local\Temp\frender" "light_-1171822467_5" 4 0 5 direct1.bin
+Running ftrace addmul "C:\Users\mrgal\AppData\Local\Temp\frender" "TrainStation_LMA5" 4 0 5 comp_5.bin
+Running ftrace batchpointlight "C:\Users\mrgal\AppData\Local\Temp\frender" "PointBatch_7_0_45" 4 0 7 batchpointlight_7_0_45.bin
+Running ftrace sun "C:\Users\mrgal\AppData\Local\Temp\frender" "light_-217659477_7" 4 0 7 direct0.bin
+Running ftrace sun "C:\Users\mrgal\AppData\Local\Temp\frender" "light_-1171822467_7" 4 0 7 direct1.bin
+Running ftrace addmul "C:\Users\mrgal\AppData\Local\Temp\frender" "TrainStation_LMA7" 4 0 7 comp_7.bin
+Running ftrace batchpointlight "C:\Users\mrgal\AppData\Local\Temp\frender" "PointBatch_3_0_45" 4 0 3 batchpointlight_3_0_45.bin
+Running ftrace sun "C:\Users\mrgal\AppData\Local\Temp\frender" "light_-217659477_3" 4 0 3 direct0.bin
+Running ftrace sun "C:\Users\mrgal\AppData\Local\Temp\frender" "light_-1171822467_3" 4 0 3 direct1.bin
+Running ftrace addmul "C:\Users\mrgal\AppData\Local\Temp\frender" "TrainStation_LMA3" 4 0 3 comp_3.bin
+Running ftrace batchpointlight "C:\Users\mrgal\AppData\Local\Temp\frender" "PointBatch_6_0_45" 4 0 6 batchpointlight_6_0_45.bin
+Running ftrace sun "C:\Users\mrgal\AppData\Local\Temp\frender" "light_-217659477_6" 4 0 6 direct0.bin
+Running ftrace sun "C:\Users\mrgal\AppData\Local\Temp\frender" "light_-1171822467_6" 4 0 6 direct1.bin
+Running ftrace addmul "C:\Users\mrgal\AppData\Local\Temp\frender" "TrainStation_LMA6" 4 0 6 comp_6.bin
+Running ftrace batchpointlight "C:\Users\mrgal\AppData\Local\Temp\frender" "PointBatch_4_0_45" 4 0 4 batchpointlight_4_0_45.bin
+Running ftrace sun "C:\Users\mrgal\AppData\Local\Temp\frender" "light_-217659477_4" 4 0 4 direct0.bin
+Running ftrace sun "C:\Users\mrgal\AppData\Local\Temp\frender" "light_-1171822467_4" 4 0 4 direct1.bin
+Running ftrace addmul "C:\Users\mrgal\AppData\Local\Temp\frender" "TrainStation_LMA4" 4 0 4 comp_4.bin
+Running ftrace batchpointlight "C:\Users\mrgal\AppData\Local\Temp\frender" "PointBatch_2_0_45" 4 0 2 batchpointlight_2_0_45.bin
+Running ftrace sun "C:\Users\mrgal\AppData\Local\Temp\frender" "light_-217659477_2" 4 0 2 direct0.bin
+Running ftrace sun "C:\Users\mrgal\AppData\Local\Temp\frender" "light_-1171822467_2" 4 0 2 direct1.bin
+Running ftrace addmul "C:\Users\mrgal\AppData\Local\Temp\frender" "TrainStation_LMA2" 4 0 2 comp_2.bin
+Running ftrace batchpointlight "C:\Users\mrgal\AppData\Local\Temp\frender" "PointBatch_1_0_45" 4 0 1 batchpointlight_1_0_45.bin
+Running ftrace sun "C:\Users\mrgal\AppData\Local\Temp\frender" "light_-217659477_1" 4 0 1 direct0.bin
+Running ftrace sun "C:\Users\mrgal\AppData\Local\Temp\frender" "light_-1171822467_1" 4 0 1 direct1.bin
+Running ftrace addmul "C:\Users\mrgal\AppData\Local\Temp\frender" "TrainStation_LMA1" 4 0 1 comp_1.bin
+Running ftrace sun "C:\Users\mrgal\AppData\Local\Temp\frender" "light_-217659477_0" 4 0 0 direct0.bin
+Running ftrace sun "C:\Users\mrgal\AppData\Local\Temp\frender" "light_-1171822467_0" 4 0 0 direct1.bin
+Running ftrace addmul "C:\Users\mrgal\AppData\Local\Temp\frender" "TrainStation_LM0" 4 0 0 comp_0.bin
+Running ftrace texgi "C:\Users\mrgal\AppData\Local\Temp\frender" "TrainStation_LMA5_diffuse" 4 16 5 "gi_TrainStation_LMA50.bin" "TrainStation_LMA5_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\mrgal\AppData\Local\Temp\frender" "TrainStation_LMA7_diffuse" 4 16 7 "gi_TrainStation_LMA70.bin" "TrainStation_LMA7_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\mrgal\AppData\Local\Temp\frender" "TrainStation_LMA3_diffuse" 4 16 3 "gi_TrainStation_LMA30.bin" "TrainStation_LMA3_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\mrgal\AppData\Local\Temp\frender" "TrainStation_LMA6_diffuse" 4 16 6 "gi_TrainStation_LMA60.bin" "TrainStation_LMA6_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\mrgal\AppData\Local\Temp\frender" "TrainStation_LMA4_diffuse" 4 16 4 "gi_TrainStation_LMA40.bin" "TrainStation_LMA4_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\mrgal\AppData\Local\Temp\frender" "TrainStation_LMA2_diffuse" 4 16 2 "gi_TrainStation_LMA20.bin" "TrainStation_LMA2_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\mrgal\AppData\Local\Temp\frender" "TrainStation_LMA1_diffuse" 4 16 1 "gi_TrainStation_LMA10.bin" "TrainStation_LMA1_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\mrgal\AppData\Local\Temp\frender" "TrainStation_LM0_diffuse" 4 16 0 "gi_TrainStation_LM00.bin" "TrainStation_LM0_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\mrgal\AppData\Local\Temp\frender" "TrainStation_LMA5_diffuse" 4 16 5 "gi_TrainStation_LMA51.bin" "TrainStation_LMA5_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\mrgal\AppData\Local\Temp\frender" "TrainStation_LMA7_diffuse" 4 16 7 "gi_TrainStation_LMA71.bin" "TrainStation_LMA7_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\mrgal\AppData\Local\Temp\frender" "TrainStation_LMA3_diffuse" 4 16 3 "gi_TrainStation_LMA31.bin" "TrainStation_LMA3_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\mrgal\AppData\Local\Temp\frender" "TrainStation_LMA6_diffuse" 4 16 6 "gi_TrainStation_LMA61.bin" "TrainStation_LMA6_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\mrgal\AppData\Local\Temp\frender" "TrainStation_LMA4_diffuse" 4 16 4 "gi_TrainStation_LMA41.bin" "TrainStation_LMA4_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\mrgal\AppData\Local\Temp\frender" "TrainStation_LMA2_diffuse" 4 16 2 "gi_TrainStation_LMA21.bin" "TrainStation_LMA2_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\mrgal\AppData\Local\Temp\frender" "TrainStation_LMA1_diffuse" 4 16 1 "gi_TrainStation_LMA11.bin" "TrainStation_LMA1_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\mrgal\AppData\Local\Temp\frender" "TrainStation_LM0_diffuse" 4 16 0 "gi_TrainStation_LM01.bin" "TrainStation_LM0_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\mrgal\AppData\Local\Temp\frender" "TrainStation_LMA5_diffuse" 4 16 5 "gi_TrainStation_LMA52.bin" "TrainStation_LMA5_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\mrgal\AppData\Local\Temp\frender" "TrainStation_LMA7_diffuse" 4 16 7 "gi_TrainStation_LMA72.bin" "TrainStation_LMA7_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\mrgal\AppData\Local\Temp\frender" "TrainStation_LMA3_diffuse" 4 16 3 "gi_TrainStation_LMA32.bin" "TrainStation_LMA3_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\mrgal\AppData\Local\Temp\frender" "TrainStation_LMA6_diffuse" 4 16 6 "gi_TrainStation_LMA62.bin" "TrainStation_LMA6_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\mrgal\AppData\Local\Temp\frender" "TrainStation_LMA4_diffuse" 4 16 4 "gi_TrainStation_LMA42.bin" "TrainStation_LMA4_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\mrgal\AppData\Local\Temp\frender" "TrainStation_LMA2_diffuse" 4 16 2 "gi_TrainStation_LMA22.bin" "TrainStation_LMA2_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\mrgal\AppData\Local\Temp\frender" "TrainStation_LMA1_diffuse" 4 16 1 "gi_TrainStation_LMA12.bin" "TrainStation_LMA1_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\mrgal\AppData\Local\Temp\frender" "TrainStation_LM0_diffuse" 4 16 0 "gi_TrainStation_LM02.bin" "TrainStation_LM0_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\mrgal\AppData\Local\Temp\frender" "TrainStation_LMA5_diffuse" 4 16 5 "gi_TrainStation_LMA53.bin" "TrainStation_LMA5_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\mrgal\AppData\Local\Temp\frender" "TrainStation_LMA7_diffuse" 4 16 7 "gi_TrainStation_LMA73.bin" "TrainStation_LMA7_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\mrgal\AppData\Local\Temp\frender" "TrainStation_LMA3_diffuse" 4 16 3 "gi_TrainStation_LMA33.bin" "TrainStation_LMA3_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\mrgal\AppData\Local\Temp\frender" "TrainStation_LMA6_diffuse" 4 16 6 "gi_TrainStation_LMA63.bin" "TrainStation_LMA6_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\mrgal\AppData\Local\Temp\frender" "TrainStation_LMA4_diffuse" 4 16 4 "gi_TrainStation_LMA43.bin" "TrainStation_LMA4_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\mrgal\AppData\Local\Temp\frender" "TrainStation_LMA2_diffuse" 4 16 2 "gi_TrainStation_LMA23.bin" "TrainStation_LMA2_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\mrgal\AppData\Local\Temp\frender" "TrainStation_LMA1_diffuse" 4 16 1 "gi_TrainStation_LMA13.bin" "TrainStation_LMA1_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\mrgal\AppData\Local\Temp\frender" "TrainStation_LM0_diffuse" 4 16 0 "gi_TrainStation_LM03.bin" "TrainStation_LM0_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\mrgal\AppData\Local\Temp\frender" "TrainStation_LMA5_final" 4 16 5 "gi_TrainStation_LMA54.bin" "TrainStation_LMA5_lights_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\mrgal\AppData\Local\Temp\frender" "TrainStation_LMA7_final" 4 16 7 "gi_TrainStation_LMA74.bin" "TrainStation_LMA7_lights_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\mrgal\AppData\Local\Temp\frender" "TrainStation_LMA3_final" 4 16 3 "gi_TrainStation_LMA34.bin" "TrainStation_LMA3_lights_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\mrgal\AppData\Local\Temp\frender" "TrainStation_LMA6_final" 4 16 6 "gi_TrainStation_LMA64.bin" "TrainStation_LMA6_lights_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\mrgal\AppData\Local\Temp\frender" "TrainStation_LMA4_final" 4 16 4 "gi_TrainStation_LMA44.bin" "TrainStation_LMA4_lights_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\mrgal\AppData\Local\Temp\frender" "TrainStation_LMA2_final" 4 16 2 "gi_TrainStation_LMA24.bin" "TrainStation_LMA2_lights_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\mrgal\AppData\Local\Temp\frender" "TrainStation_LMA1_final" 4 16 1 "gi_TrainStation_LMA14.bin" "TrainStation_LMA1_lights_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\mrgal\AppData\Local\Temp\frender" "TrainStation_LM0_final" 4 16 0 "gi_TrainStation_LM04.bin" "TrainStation_LM0_lights_HDR.lz4" vbTraceTex.bin
+Running denoiser "C:\Users\mrgal\AppData\Local\Temp\frender/TrainStation_LMA5_final_HDR.lz4" "C:\Users\mrgal\AppData\Local\Temp\frender/TrainStation_LMA5_final_HDR.lz4" 4096 0
+Running seamfixer "C:\Users\mrgal\AppData\Local\Temp\frender" "5" "TrainStation_LMA5_final_HDR.lz4"
+Running denoiser "C:\Users\mrgal\AppData\Local\Temp\frender/TrainStation_LMA7_final_HDR.lz4" "C:\Users\mrgal\AppData\Local\Temp\frender/TrainStation_LMA7_final_HDR.lz4" 2048 0
+Running seamfixer "C:\Users\mrgal\AppData\Local\Temp\frender" "7" "TrainStation_LMA7_final_HDR.lz4"
+Running denoiser "C:\Users\mrgal\AppData\Local\Temp\frender/TrainStation_LMA3_final_HDR.lz4" "C:\Users\mrgal\AppData\Local\Temp\frender/TrainStation_LMA3_final_HDR.lz4" 4096 0
+Running seamfixer "C:\Users\mrgal\AppData\Local\Temp\frender" "3" "TrainStation_LMA3_final_HDR.lz4"
+Running denoiser "C:\Users\mrgal\AppData\Local\Temp\frender/TrainStation_LMA6_final_HDR.lz4" "C:\Users\mrgal\AppData\Local\Temp\frender/TrainStation_LMA6_final_HDR.lz4" 4096 0
+Running seamfixer "C:\Users\mrgal\AppData\Local\Temp\frender" "6" "TrainStation_LMA6_final_HDR.lz4"
+Running denoiser "C:\Users\mrgal\AppData\Local\Temp\frender/TrainStation_LMA4_final_HDR.lz4" "C:\Users\mrgal\AppData\Local\Temp\frender/TrainStation_LMA4_final_HDR.lz4" 4096 0
+Running seamfixer "C:\Users\mrgal\AppData\Local\Temp\frender" "4" "TrainStation_LMA4_final_HDR.lz4"
+Running denoiser "C:\Users\mrgal\AppData\Local\Temp\frender/TrainStation_LMA2_final_HDR.lz4" "C:\Users\mrgal\AppData\Local\Temp\frender/TrainStation_LMA2_final_HDR.lz4" 4096 0
+Running seamfixer "C:\Users\mrgal\AppData\Local\Temp\frender" "2" "TrainStation_LMA2_final_HDR.lz4"
+Running denoiser "C:\Users\mrgal\AppData\Local\Temp\frender/TrainStation_LMA1_final_HDR.lz4" "C:\Users\mrgal\AppData\Local\Temp\frender/TrainStation_LMA1_final_HDR.lz4" 4096 0
+Running seamfixer "C:\Users\mrgal\AppData\Local\Temp\frender" "1" "TrainStation_LMA1_final_HDR.lz4"
+Running denoiser "C:\Users\mrgal\AppData\Local\Temp\frender/TrainStation_LM0_final_HDR.lz4" "C:\Users\mrgal\AppData\Local\Temp\frender/TrainStation_LM0_final_HDR.lz4" 4096 0
+Running seamfixer "C:\Users\mrgal\AppData\Local\Temp\frender" "0" "TrainStation_LM0_final_HDR.lz4"
+Running halffloat2hdr "C:\Users\mrgal\AppData\Local\Temp\frender/TrainStation_LMA5_final_HDR.lz4" "C:/Escritorio/Trabajo/ProyectosProfesionales/Videojuegos/Unity/Proyecto/Assets/BakeryLightmaps/TrainStation_LMA5_final.hdr"
+Running halffloat2hdr "C:\Users\mrgal\AppData\Local\Temp\frender/TrainStation_LMA7_final_HDR.lz4" "C:/Escritorio/Trabajo/ProyectosProfesionales/Videojuegos/Unity/Proyecto/Assets/BakeryLightmaps/TrainStation_LMA7_final.hdr"
+Running halffloat2hdr "C:\Users\mrgal\AppData\Local\Temp\frender/TrainStation_LMA3_final_HDR.lz4" "C:/Escritorio/Trabajo/ProyectosProfesionales/Videojuegos/Unity/Proyecto/Assets/BakeryLightmaps/TrainStation_LMA3_final.hdr"
+Running halffloat2hdr "C:\Users\mrgal\AppData\Local\Temp\frender/TrainStation_LMA6_final_HDR.lz4" "C:/Escritorio/Trabajo/ProyectosProfesionales/Videojuegos/Unity/Proyecto/Assets/BakeryLightmaps/TrainStation_LMA6_final.hdr"
+Running halffloat2hdr "C:\Users\mrgal\AppData\Local\Temp\frender/TrainStation_LMA4_final_HDR.lz4" "C:/Escritorio/Trabajo/ProyectosProfesionales/Videojuegos/Unity/Proyecto/Assets/BakeryLightmaps/TrainStation_LMA4_final.hdr"
+Running halffloat2hdr "C:\Users\mrgal\AppData\Local\Temp\frender/TrainStation_LMA2_final_HDR.lz4" "C:/Escritorio/Trabajo/ProyectosProfesionales/Videojuegos/Unity/Proyecto/Assets/BakeryLightmaps/TrainStation_LMA2_final.hdr"
+Running halffloat2hdr "C:\Users\mrgal\AppData\Local\Temp\frender/TrainStation_LMA1_final_HDR.lz4" "C:/Escritorio/Trabajo/ProyectosProfesionales/Videojuegos/Unity/Proyecto/Assets/BakeryLightmaps/TrainStation_LMA1_final.hdr"
+Running halffloat2hdr "C:\Users\mrgal\AppData\Local\Temp\frender/TrainStation_LM0_final_HDR.lz4" "C:/Escritorio/Trabajo/ProyectosProfesionales/Videojuegos/Unity/Proyecto/Assets/BakeryLightmaps/TrainStation_LM0_final.hdr"
+Symbol file LoadedFromMemory doesn't match image C:\Escritorio\Trabajo\ProyectosProfesionales\Videojuegos\Unity\Proyecto\Library\PackageCache\com.unity.visualscripting@1.8.0\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\Escritorio\Trabajo\ProyectosProfesionales\Videojuegos\Unity\Proyecto\Library\PackageCache\com.unity.visualscripting@1.8.0\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Symbol file LoadedFromMemory doesn't match image C:\Escritorio\Trabajo\ProyectosProfesionales\Videojuegos\Unity\Proyecto\Library\PackageCache\com.unity.visualscripting@1.8.0\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\Escritorio\Trabajo\ProyectosProfesionales\Videojuegos\Unity\Proyecto\Library\PackageCache\com.unity.visualscripting@1.8.0\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Loaded vertex shader: quad.vso
+Loaded pixel shader: skyOutput.pso
+Loaded pixel shader: cookieOutput.pso
+initShaders done
+initScene done
+Done
+Rendering UV GBuffer for TrainStation_LM0 51
+RGBA32F...RGBA8...RGBA8_SRGB...RGBA16F...states...
+Rendering UV normal...
+Rendering faceted UV normal...
+Rendering UV pos...
+Rendering smooth UV pos...
+Rendering UV GBuffer for TrainStation_LMA1 51
+RGBA32F...RGBA8...RGBA8_SRGB...RGBA16F...states...
+Rendering UV normal...
+Rendering faceted UV normal...
+Rendering UV pos...
+Rendering smooth UV pos...
+Rendering UV GBuffer for TrainStation_LMA2 51
+RGBA32F...RGBA8...RGBA8_SRGB...RGBA16F...states...
+Rendering UV normal...
+Rendering faceted UV normal...
+Rendering UV pos...
+Rendering smooth UV pos...
+Rendering UV GBuffer for TrainStation_LMA3 51
+RGBA32F...RGBA8...RGBA8_SRGB...RGBA16F...states...
+Rendering UV normal...
+Rendering faceted UV normal...
+Rendering UV pos...
+Rendering smooth UV pos...
+Rendering UV GBuffer for TrainStation_LMA4 51
+RGBA32F...RGBA8...RGBA8_SRGB...RGBA16F...states...
+Rendering UV normal...
+Rendering faceted UV normal...
+Rendering UV pos...
+Rendering smooth UV pos...
+Rendering UV GBuffer for TrainStation_LMA5 51
+RGBA32F...RGBA8...RGBA8_SRGB...RGBA16F...states...
+Rendering UV normal...
+Rendering faceted UV normal...
+Rendering UV pos...
+Rendering smooth UV pos...
+Rendering UV GBuffer for TrainStation_LMA6 51
+RGBA32F...RGBA8...RGBA8_SRGB...RGBA16F...states...
+Rendering UV normal...
+Rendering faceted UV normal...
+Rendering UV pos...
+Rendering smooth UV pos...
+Rendering UV GBuffer for TrainStation_LMA7 51
+RGBA32F...RGBA8...RGBA8_SRGB...RGBA16F...states...
+Rendering UV normal...
+Rendering faceted UV normal...
+Rendering UV pos...
+Rendering smooth UV pos...
+Done
+Done
+Running ftrace fixpos12 "C:\Users\mrgal\AppData\Local\Temp\frender" "uvpos_TrainStation_LMA7.lz4" 2 0 7 0
+Running ftrace fixpos12 "C:\Users\mrgal\AppData\Local\Temp\frender" "uvpos_TrainStation_LMA5.lz4" 2 0 5 0
+Running ftrace fixpos12 "C:\Users\mrgal\AppData\Local\Temp\frender" "uvpos_TrainStation_LMA3.lz4" 2 0 3 0
+Running ftrace fixpos12 "C:\Users\mrgal\AppData\Local\Temp\frender" "uvpos_TrainStation_LMA6.lz4" 2 0 6 0
+Running ftrace fixpos12 "C:\Users\mrgal\AppData\Local\Temp\frender" "uvpos_TrainStation_LMA4.lz4" 2 0 4 0
+Running ftrace fixpos12 "C:\Users\mrgal\AppData\Local\Temp\frender" "uvpos_TrainStation_LMA2.lz4" 2 0 2 0
+Running ftrace fixpos12 "C:\Users\mrgal\AppData\Local\Temp\frender" "uvpos_TrainStation_LMA1.lz4" 2 0 1 0
+Running ftrace fixpos12 "C:\Users\mrgal\AppData\Local\Temp\frender" "uvpos_TrainStation_LM0.lz4" 2 0 0 0
+Running ftrace batchpointlight "C:\Users\mrgal\AppData\Local\Temp\frender" "PointBatch_7_0_45" 4 0 7 batchpointlight_7_0_45.bin
+Running ftrace sun "C:\Users\mrgal\AppData\Local\Temp\frender" "light_-217659477_7" 4 0 7 direct0.bin
+Running ftrace sun "C:\Users\mrgal\AppData\Local\Temp\frender" "light_-1171822467_7" 4 0 7 direct1.bin
+Running ftrace addmul "C:\Users\mrgal\AppData\Local\Temp\frender" "TrainStation_LMA7" 4 0 7 comp_7.bin
+Running ftrace batchpointlight "C:\Users\mrgal\AppData\Local\Temp\frender" "PointBatch_5_0_45" 4 0 5 batchpointlight_5_0_45.bin
+Running ftrace sun "C:\Users\mrgal\AppData\Local\Temp\frender" "light_-217659477_5" 4 0 5 direct0.bin
+Running ftrace sun "C:\Users\mrgal\AppData\Local\Temp\frender" "light_-1171822467_5" 4 0 5 direct1.bin
+Running ftrace addmul "C:\Users\mrgal\AppData\Local\Temp\frender" "TrainStation_LMA5" 4 0 5 comp_5.bin
+Running ftrace batchpointlight "C:\Users\mrgal\AppData\Local\Temp\frender" "PointBatch_3_0_45" 4 0 3 batchpointlight_3_0_45.bin
+Running ftrace sun "C:\Users\mrgal\AppData\Local\Temp\frender" "light_-217659477_3" 4 0 3 direct0.bin
+Running ftrace sun "C:\Users\mrgal\AppData\Local\Temp\frender" "light_-1171822467_3" 4 0 3 direct1.bin
+Running ftrace addmul "C:\Users\mrgal\AppData\Local\Temp\frender" "TrainStation_LMA3" 4 0 3 comp_3.bin
+Running ftrace batchpointlight "C:\Users\mrgal\AppData\Local\Temp\frender" "PointBatch_6_0_45" 4 0 6 batchpointlight_6_0_45.bin
+Running ftrace sun "C:\Users\mrgal\AppData\Local\Temp\frender" "light_-217659477_6" 4 0 6 direct0.bin
+Running ftrace sun "C:\Users\mrgal\AppData\Local\Temp\frender" "light_-1171822467_6" 4 0 6 direct1.bin
+Running ftrace addmul "C:\Users\mrgal\AppData\Local\Temp\frender" "TrainStation_LMA6" 4 0 6 comp_6.bin
+Running ftrace batchpointlight "C:\Users\mrgal\AppData\Local\Temp\frender" "PointBatch_4_0_45" 4 0 4 batchpointlight_4_0_45.bin
+Running ftrace sun "C:\Users\mrgal\AppData\Local\Temp\frender" "light_-217659477_4" 4 0 4 direct0.bin
+Running ftrace sun "C:\Users\mrgal\AppData\Local\Temp\frender" "light_-1171822467_4" 4 0 4 direct1.bin
+Running ftrace addmul "C:\Users\mrgal\AppData\Local\Temp\frender" "TrainStation_LMA4" 4 0 4 comp_4.bin
+Running ftrace batchpointlight "C:\Users\mrgal\AppData\Local\Temp\frender" "PointBatch_2_0_45" 4 0 2 batchpointlight_2_0_45.bin
+Running ftrace sun "C:\Users\mrgal\AppData\Local\Temp\frender" "light_-217659477_2" 4 0 2 direct0.bin
+Running ftrace sun "C:\Users\mrgal\AppData\Local\Temp\frender" "light_-1171822467_2" 4 0 2 direct1.bin
+Running ftrace addmul "C:\Users\mrgal\AppData\Local\Temp\frender" "TrainStation_LMA2" 4 0 2 comp_2.bin
+Running ftrace batchpointlight "C:\Users\mrgal\AppData\Local\Temp\frender" "PointBatch_1_0_45" 4 0 1 batchpointlight_1_0_45.bin
+Running ftrace sun "C:\Users\mrgal\AppData\Local\Temp\frender" "light_-217659477_1" 4 0 1 direct0.bin
+Running ftrace sun "C:\Users\mrgal\AppData\Local\Temp\frender" "light_-1171822467_1" 4 0 1 direct1.bin
+Running ftrace addmul "C:\Users\mrgal\AppData\Local\Temp\frender" "TrainStation_LMA1" 4 0 1 comp_1.bin
+Running ftrace sun "C:\Users\mrgal\AppData\Local\Temp\frender" "light_-217659477_0" 4 0 0 direct0.bin
+Running ftrace sun "C:\Users\mrgal\AppData\Local\Temp\frender" "light_-1171822467_0" 4 0 0 direct1.bin
+Running ftrace addmul "C:\Users\mrgal\AppData\Local\Temp\frender" "TrainStation_LM0" 4 0 0 comp_0.bin
+Running ftrace texgi "C:\Users\mrgal\AppData\Local\Temp\frender" "TrainStation_LMA7_diffuse" 4 16 7 "gi_TrainStation_LMA70.bin" "TrainStation_LMA7_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\mrgal\AppData\Local\Temp\frender" "TrainStation_LMA5_diffuse" 4 16 5 "gi_TrainStation_LMA50.bin" "TrainStation_LMA5_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\mrgal\AppData\Local\Temp\frender" "TrainStation_LMA3_diffuse" 4 16 3 "gi_TrainStation_LMA30.bin" "TrainStation_LMA3_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\mrgal\AppData\Local\Temp\frender" "TrainStation_LMA6_diffuse" 4 16 6 "gi_TrainStation_LMA60.bin" "TrainStation_LMA6_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\mrgal\AppData\Local\Temp\frender" "TrainStation_LMA4_diffuse" 4 16 4 "gi_TrainStation_LMA40.bin" "TrainStation_LMA4_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\mrgal\AppData\Local\Temp\frender" "TrainStation_LMA2_diffuse" 4 16 2 "gi_TrainStation_LMA20.bin" "TrainStation_LMA2_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\mrgal\AppData\Local\Temp\frender" "TrainStation_LMA1_diffuse" 4 16 1 "gi_TrainStation_LMA10.bin" "TrainStation_LMA1_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\mrgal\AppData\Local\Temp\frender" "TrainStation_LM0_diffuse" 4 16 0 "gi_TrainStation_LM00.bin" "TrainStation_LM0_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\mrgal\AppData\Local\Temp\frender" "TrainStation_LMA7_diffuse" 4 16 7 "gi_TrainStation_LMA71.bin" "TrainStation_LMA7_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\mrgal\AppData\Local\Temp\frender" "TrainStation_LMA5_diffuse" 4 16 5 "gi_TrainStation_LMA51.bin" "TrainStation_LMA5_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\mrgal\AppData\Local\Temp\frender" "TrainStation_LMA3_diffuse" 4 16 3 "gi_TrainStation_LMA31.bin" "TrainStation_LMA3_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\mrgal\AppData\Local\Temp\frender" "TrainStation_LMA6_diffuse" 4 16 6 "gi_TrainStation_LMA61.bin" "TrainStation_LMA6_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\mrgal\AppData\Local\Temp\frender" "TrainStation_LMA4_diffuse" 4 16 4 "gi_TrainStation_LMA41.bin" "TrainStation_LMA4_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\mrgal\AppData\Local\Temp\frender" "TrainStation_LMA2_diffuse" 4 16 2 "gi_TrainStation_LMA21.bin" "TrainStation_LMA2_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\mrgal\AppData\Local\Temp\frender" "TrainStation_LMA1_diffuse" 4 16 1 "gi_TrainStation_LMA11.bin" "TrainStation_LMA1_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\mrgal\AppData\Local\Temp\frender" "TrainStation_LM0_diffuse" 4 16 0 "gi_TrainStation_LM01.bin" "TrainStation_LM0_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\mrgal\AppData\Local\Temp\frender" "TrainStation_LMA7_diffuse" 4 16 7 "gi_TrainStation_LMA72.bin" "TrainStation_LMA7_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\mrgal\AppData\Local\Temp\frender" "TrainStation_LMA5_diffuse" 4 16 5 "gi_TrainStation_LMA52.bin" "TrainStation_LMA5_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\mrgal\AppData\Local\Temp\frender" "TrainStation_LMA3_diffuse" 4 16 3 "gi_TrainStation_LMA32.bin" "TrainStation_LMA3_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\mrgal\AppData\Local\Temp\frender" "TrainStation_LMA6_diffuse" 4 16 6 "gi_TrainStation_LMA62.bin" "TrainStation_LMA6_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\mrgal\AppData\Local\Temp\frender" "TrainStation_LMA4_diffuse" 4 16 4 "gi_TrainStation_LMA42.bin" "TrainStation_LMA4_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\mrgal\AppData\Local\Temp\frender" "TrainStation_LMA2_diffuse" 4 16 2 "gi_TrainStation_LMA22.bin" "TrainStation_LMA2_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\mrgal\AppData\Local\Temp\frender" "TrainStation_LMA1_diffuse" 4 16 1 "gi_TrainStation_LMA12.bin" "TrainStation_LMA1_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\mrgal\AppData\Local\Temp\frender" "TrainStation_LM0_diffuse" 4 16 0 "gi_TrainStation_LM02.bin" "TrainStation_LM0_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\mrgal\AppData\Local\Temp\frender" "TrainStation_LMA7_diffuse" 4 16 7 "gi_TrainStation_LMA73.bin" "TrainStation_LMA7_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\mrgal\AppData\Local\Temp\frender" "TrainStation_LMA5_diffuse" 4 16 5 "gi_TrainStation_LMA53.bin" "TrainStation_LMA5_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\mrgal\AppData\Local\Temp\frender" "TrainStation_LMA3_diffuse" 4 16 3 "gi_TrainStation_LMA33.bin" "TrainStation_LMA3_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\mrgal\AppData\Local\Temp\frender" "TrainStation_LMA6_diffuse" 4 16 6 "gi_TrainStation_LMA63.bin" "TrainStation_LMA6_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\mrgal\AppData\Local\Temp\frender" "TrainStation_LMA4_diffuse" 4 16 4 "gi_TrainStation_LMA43.bin" "TrainStation_LMA4_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\mrgal\AppData\Local\Temp\frender" "TrainStation_LMA2_diffuse" 4 16 2 "gi_TrainStation_LMA23.bin" "TrainStation_LMA2_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\mrgal\AppData\Local\Temp\frender" "TrainStation_LMA1_diffuse" 4 16 1 "gi_TrainStation_LMA13.bin" "TrainStation_LMA1_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\mrgal\AppData\Local\Temp\frender" "TrainStation_LM0_diffuse" 4 16 0 "gi_TrainStation_LM03.bin" "TrainStation_LM0_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\mrgal\AppData\Local\Temp\frender" "TrainStation_LMA7_final" 4 16 7 "gi_TrainStation_LMA74.bin" "TrainStation_LMA7_lights_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\mrgal\AppData\Local\Temp\frender" "TrainStation_LMA5_final" 4 16 5 "gi_TrainStation_LMA54.bin" "TrainStation_LMA5_lights_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\mrgal\AppData\Local\Temp\frender" "TrainStation_LMA3_final" 4 16 3 "gi_TrainStation_LMA34.bin" "TrainStation_LMA3_lights_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\mrgal\AppData\Local\Temp\frender" "TrainStation_LMA6_final" 4 16 6 "gi_TrainStation_LMA64.bin" "TrainStation_LMA6_lights_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\mrgal\AppData\Local\Temp\frender" "TrainStation_LMA4_final" 4 16 4 "gi_TrainStation_LMA44.bin" "TrainStation_LMA4_lights_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\mrgal\AppData\Local\Temp\frender" "TrainStation_LMA2_final" 4 16 2 "gi_TrainStation_LMA24.bin" "TrainStation_LMA2_lights_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\mrgal\AppData\Local\Temp\frender" "TrainStation_LMA1_final" 4 16 1 "gi_TrainStation_LMA14.bin" "TrainStation_LMA1_lights_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\mrgal\AppData\Local\Temp\frender" "TrainStation_LM0_final" 4 16 0 "gi_TrainStation_LM04.bin" "TrainStation_LM0_lights_HDR.lz4" vbTraceTex.bin
+Running denoiser "C:\Users\mrgal\AppData\Local\Temp\frender/TrainStation_LMA7_final_HDR.lz4" "C:\Users\mrgal\AppData\Local\Temp\frender/TrainStation_LMA7_final_HDR.lz4" 2048 0
+Running seamfixer "C:\Users\mrgal\AppData\Local\Temp\frender" "7" "TrainStation_LMA7_final_HDR.lz4"
+Running denoiser "C:\Users\mrgal\AppData\Local\Temp\frender/TrainStation_LMA5_final_HDR.lz4" "C:\Users\mrgal\AppData\Local\Temp\frender/TrainStation_LMA5_final_HDR.lz4" 4096 0
+Running seamfixer "C:\Users\mrgal\AppData\Local\Temp\frender" "5" "TrainStation_LMA5_final_HDR.lz4"
+Running denoiser "C:\Users\mrgal\AppData\Local\Temp\frender/TrainStation_LMA3_final_HDR.lz4" "C:\Users\mrgal\AppData\Local\Temp\frender/TrainStation_LMA3_final_HDR.lz4" 4096 0
+Running seamfixer "C:\Users\mrgal\AppData\Local\Temp\frender" "3" "TrainStation_LMA3_final_HDR.lz4"
+Running denoiser "C:\Users\mrgal\AppData\Local\Temp\frender/TrainStation_LMA6_final_HDR.lz4" "C:\Users\mrgal\AppData\Local\Temp\frender/TrainStation_LMA6_final_HDR.lz4" 4096 0
+Running seamfixer "C:\Users\mrgal\AppData\Local\Temp\frender" "6" "TrainStation_LMA6_final_HDR.lz4"
+Running denoiser "C:\Users\mrgal\AppData\Local\Temp\frender/TrainStation_LMA4_final_HDR.lz4" "C:\Users\mrgal\AppData\Local\Temp\frender/TrainStation_LMA4_final_HDR.lz4" 4096 0
+Running seamfixer "C:\Users\mrgal\AppData\Local\Temp\frender" "4" "TrainStation_LMA4_final_HDR.lz4"
+Running denoiser "C:\Users\mrgal\AppData\Local\Temp\frender/TrainStation_LMA2_final_HDR.lz4" "C:\Users\mrgal\AppData\Local\Temp\frender/TrainStation_LMA2_final_HDR.lz4" 4096 0
+Running seamfixer "C:\Users\mrgal\AppData\Local\Temp\frender" "2" "TrainStation_LMA2_final_HDR.lz4"
+Running denoiser "C:\Users\mrgal\AppData\Local\Temp\frender/TrainStation_LMA1_final_HDR.lz4" "C:\Users\mrgal\AppData\Local\Temp\frender/TrainStation_LMA1_final_HDR.lz4" 4096 0
+Running seamfixer "C:\Users\mrgal\AppData\Local\Temp\frender" "1" "TrainStation_LMA1_final_HDR.lz4"
+Running denoiser "C:\Users\mrgal\AppData\Local\Temp\frender/TrainStation_LM0_final_HDR.lz4" "C:\Users\mrgal\AppData\Local\Temp\frender/TrainStation_LM0_final_HDR.lz4" 4096 0
+Running seamfixer "C:\Users\mrgal\AppData\Local\Temp\frender" "0" "TrainStation_LM0_final_HDR.lz4"
+Running halffloat2hdr "C:\Users\mrgal\AppData\Local\Temp\frender/TrainStation_LMA7_final_HDR.lz4" "C:/Escritorio/Trabajo/ProyectosProfesionales/Videojuegos/Unity/Proyecto/Assets/BakeryLightmaps/TrainStation_LMA7_final.hdr"
+Running halffloat2hdr "C:\Users\mrgal\AppData\Local\Temp\frender/TrainStation_LMA5_final_HDR.lz4" "C:/Escritorio/Trabajo/ProyectosProfesionales/Videojuegos/Unity/Proyecto/Assets/BakeryLightmaps/TrainStation_LMA5_final.hdr"
+Running halffloat2hdr "C:\Users\mrgal\AppData\Local\Temp\frender/TrainStation_LMA3_final_HDR.lz4" "C:/Escritorio/Trabajo/ProyectosProfesionales/Videojuegos/Unity/Proyecto/Assets/BakeryLightmaps/TrainStation_LMA3_final.hdr"
+Running halffloat2hdr "C:\Users\mrgal\AppData\Local\Temp\frender/TrainStation_LMA6_final_HDR.lz4" "C:/Escritorio/Trabajo/ProyectosProfesionales/Videojuegos/Unity/Proyecto/Assets/BakeryLightmaps/TrainStation_LMA6_final.hdr"
+Running halffloat2hdr "C:\Users\mrgal\AppData\Local\Temp\frender/TrainStation_LMA4_final_HDR.lz4" "C:/Escritorio/Trabajo/ProyectosProfesionales/Videojuegos/Unity/Proyecto/Assets/BakeryLightmaps/TrainStation_LMA4_final.hdr"
+Running halffloat2hdr "C:\Users\mrgal\AppData\Local\Temp\frender/TrainStation_LMA2_final_HDR.lz4" "C:/Escritorio/Trabajo/ProyectosProfesionales/Videojuegos/Unity/Proyecto/Assets/BakeryLightmaps/TrainStation_LMA2_final.hdr"
+Running halffloat2hdr "C:\Users\mrgal\AppData\Local\Temp\frender/TrainStation_LMA1_final_HDR.lz4" "C:/Escritorio/Trabajo/ProyectosProfesionales/Videojuegos/Unity/Proyecto/Assets/BakeryLightmaps/TrainStation_LMA1_final.hdr"
+Running halffloat2hdr "C:\Users\mrgal\AppData\Local\Temp\frender/TrainStation_LM0_final_HDR.lz4" "C:/Escritorio/Trabajo/ProyectosProfesionales/Videojuegos/Unity/Proyecto/Assets/BakeryLightmaps/TrainStation_LM0_final.hdr"
+Symbol file LoadedFromMemory doesn't match image C:\Escritorio\Trabajo\ProyectosProfesionales\Videojuegos\Unity\Proyecto\Library\PackageCache\com.unity.visualscripting@1.8.0\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\Escritorio\Trabajo\ProyectosProfesionales\Videojuegos\Unity\Proyecto\Library\PackageCache\com.unity.visualscripting@1.8.0\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Loaded vertex shader: quad.vso
+Loaded pixel shader: skyOutput.pso
+Loaded pixel shader: cookieOutput.pso
+initShaders done
+initScene done
+Done
+Rendering UV GBuffer for TrainStation_LM0 51
+RGBA32F...RGBA8...RGBA8_SRGB...RGBA16F...states...
+Rendering UV normal...
+Rendering faceted UV normal...
+Rendering UV pos...
+Rendering smooth UV pos...
+Rendering UV GBuffer for TrainStation_LMA1 51
+RGBA32F...RGBA8...RGBA8_SRGB...RGBA16F...states...
+Rendering UV normal...
+Rendering faceted UV normal...
+Rendering UV pos...
+Rendering smooth UV pos...
+Rendering UV GBuffer for TrainStation_LMA2 51
+RGBA32F...RGBA8...RGBA8_SRGB...RGBA16F...states...
+Rendering UV normal...
+Rendering faceted UV normal...
+Rendering UV pos...
+Rendering smooth UV pos...
+Rendering UV GBuffer for TrainStation_LMA3 51
+RGBA32F...RGBA8...RGBA8_SRGB...RGBA16F...states...
+Rendering UV normal...
+Rendering faceted UV normal...
+Rendering UV pos...
+Rendering smooth UV pos...
+Rendering UV GBuffer for TrainStation_LMA4 51
+RGBA32F...RGBA8...RGBA8_SRGB...RGBA16F...states...
+Rendering UV normal...
+Rendering faceted UV normal...
+Rendering UV pos...
+Rendering smooth UV pos...
+Rendering UV GBuffer for TrainStation_LMA5 51
+RGBA32F...RGBA8...RGBA8_SRGB...RGBA16F...states...
+Rendering UV normal...
+Rendering faceted UV normal...
+Rendering UV pos...
+Rendering smooth UV pos...
+Rendering UV GBuffer for TrainStation_LMA6 51
+RGBA32F...RGBA8...RGBA8_SRGB...RGBA16F...states...
+Rendering UV normal...
+Rendering faceted UV normal...
+Rendering UV pos...
+Rendering smooth UV pos...
+Rendering UV GBuffer for TrainStation_LMA7 51
+RGBA32F...RGBA8...RGBA8_SRGB...RGBA16F...states...
+Rendering UV normal...
+Rendering faceted UV normal...
+Rendering UV pos...
+Rendering smooth UV pos...
+Done
+Done
+Running ftrace fixpos12 "C:\Users\mrgal\AppData\Local\Temp\frender" "uvpos_TrainStation_LMA5.lz4" 2 0 5 0
+Running ftrace fixpos12 "C:\Users\mrgal\AppData\Local\Temp\frender" "uvpos_TrainStation_LMA7.lz4" 2 0 7 0
+Running ftrace fixpos12 "C:\Users\mrgal\AppData\Local\Temp\frender" "uvpos_TrainStation_LMA6.lz4" 2 0 6 0
+Running ftrace fixpos12 "C:\Users\mrgal\AppData\Local\Temp\frender" "uvpos_TrainStation_LMA3.lz4" 2 0 3 0
+Running ftrace fixpos12 "C:\Users\mrgal\AppData\Local\Temp\frender" "uvpos_TrainStation_LMA4.lz4" 2 0 4 0
+Running ftrace fixpos12 "C:\Users\mrgal\AppData\Local\Temp\frender" "uvpos_TrainStation_LMA2.lz4" 2 0 2 0
+Running ftrace fixpos12 "C:\Users\mrgal\AppData\Local\Temp\frender" "uvpos_TrainStation_LMA1.lz4" 2 0 1 0
+Running ftrace fixpos12 "C:\Users\mrgal\AppData\Local\Temp\frender" "uvpos_TrainStation_LM0.lz4" 2 0 0 0
+Running ftrace batchpointlight "C:\Users\mrgal\AppData\Local\Temp\frender" "PointBatch_5_0_45" 4 0 5 batchpointlight_5_0_45.bin
+Running ftrace sun "C:\Users\mrgal\AppData\Local\Temp\frender" "light_-217659477_5" 4 0 5 direct0.bin
+Running ftrace sun "C:\Users\mrgal\AppData\Local\Temp\frender" "light_-1171822467_5" 4 0 5 direct1.bin
+Running ftrace add "C:\Users\mrgal\AppData\Local\Temp\frender" "TrainStation_LMA5_final_HDR.lz4" 4 0 5 comp_5.bin
+Running ftrace sun "C:\Users\mrgal\AppData\Local\Temp\frender" "light_-217659477_7" 4 0 7 direct0.bin
+Running ftrace sun "C:\Users\mrgal\AppData\Local\Temp\frender" "light_-1171822467_7" 4 0 7 direct1.bin
+Running ftrace add "C:\Users\mrgal\AppData\Local\Temp\frender" "TrainStation_LMA7_final_HDR.lz4" 4 0 7 comp_7.bin
+Running ftrace batchpointlight "C:\Users\mrgal\AppData\Local\Temp\frender" "PointBatch_6_0_45" 4 0 6 batchpointlight_6_0_45.bin
+Running ftrace sun "C:\Users\mrgal\AppData\Local\Temp\frender" "light_-217659477_6" 4 0 6 direct0.bin
+Running ftrace sun "C:\Users\mrgal\AppData\Local\Temp\frender" "light_-1171822467_6" 4 0 6 direct1.bin
+Running ftrace add "C:\Users\mrgal\AppData\Local\Temp\frender" "TrainStation_LMA6_final_HDR.lz4" 4 0 6 comp_6.bin
+Running ftrace batchpointlight "C:\Users\mrgal\AppData\Local\Temp\frender" "PointBatch_3_0_45" 4 0 3 batchpointlight_3_0_45.bin
+Running ftrace sun "C:\Users\mrgal\AppData\Local\Temp\frender" "light_-217659477_3" 4 0 3 direct0.bin
+Running ftrace sun "C:\Users\mrgal\AppData\Local\Temp\frender" "light_-1171822467_3" 4 0 3 direct1.bin
+Running ftrace add "C:\Users\mrgal\AppData\Local\Temp\frender" "TrainStation_LMA3_final_HDR.lz4" 4 0 3 comp_3.bin
+Running ftrace batchpointlight "C:\Users\mrgal\AppData\Local\Temp\frender" "PointBatch_4_0_45" 4 0 4 batchpointlight_4_0_45.bin
+Running ftrace sun "C:\Users\mrgal\AppData\Local\Temp\frender" "light_-217659477_4" 4 0 4 direct0.bin
+Running ftrace sun "C:\Users\mrgal\AppData\Local\Temp\frender" "light_-1171822467_4" 4 0 4 direct1.bin
+Running ftrace add "C:\Users\mrgal\AppData\Local\Temp\frender" "TrainStation_LMA4_final_HDR.lz4" 4 0 4 comp_4.bin
+Running ftrace batchpointlight "C:\Users\mrgal\AppData\Local\Temp\frender" "PointBatch_2_0_45" 4 0 2 batchpointlight_2_0_45.bin
+Running ftrace sun "C:\Users\mrgal\AppData\Local\Temp\frender" "light_-217659477_2" 4 0 2 direct0.bin
+Running ftrace sun "C:\Users\mrgal\AppData\Local\Temp\frender" "light_-1171822467_2" 4 0 2 direct1.bin
+Running ftrace add "C:\Users\mrgal\AppData\Local\Temp\frender" "TrainStation_LMA2_final_HDR.lz4" 4 0 2 comp_2.bin
+Running ftrace batchpointlight "C:\Users\mrgal\AppData\Local\Temp\frender" "PointBatch_1_0_45" 4 0 1 batchpointlight_1_0_45.bin
+Running ftrace sun "C:\Users\mrgal\AppData\Local\Temp\frender" "light_-217659477_1" 4 0 1 direct0.bin
+Running ftrace sun "C:\Users\mrgal\AppData\Local\Temp\frender" "light_-1171822467_1" 4 0 1 direct1.bin
+Running ftrace add "C:\Users\mrgal\AppData\Local\Temp\frender" "TrainStation_LMA1_final_HDR.lz4" 4 0 1 comp_1.bin
+Running ftrace sun "C:\Users\mrgal\AppData\Local\Temp\frender" "light_-217659477_0" 4 0 0 direct0.bin
+Running ftrace sun "C:\Users\mrgal\AppData\Local\Temp\frender" "light_-1171822467_0" 4 0 0 direct1.bin
+Running ftrace add "C:\Users\mrgal\AppData\Local\Temp\frender" "TrainStation_LM0_final_HDR.lz4" 4 0 0 comp_0.bin
+Running denoiser "C:\Users\mrgal\AppData\Local\Temp\frender/TrainStation_LMA5_final_HDR.lz4" "C:\Users\mrgal\AppData\Local\Temp\frender/TrainStation_LMA5_final_HDR.lz4" 4096 0
+Running seamfixer "C:\Users\mrgal\AppData\Local\Temp\frender" "5" "TrainStation_LMA5_final_HDR.lz4"
+Running denoiser "C:\Users\mrgal\AppData\Local\Temp\frender/TrainStation_LMA7_final_HDR.lz4" "C:\Users\mrgal\AppData\Local\Temp\frender/TrainStation_LMA7_final_HDR.lz4" 2048 0
+Running seamfixer "C:\Users\mrgal\AppData\Local\Temp\frender" "7" "TrainStation_LMA7_final_HDR.lz4"
+Running denoiser "C:\Users\mrgal\AppData\Local\Temp\frender/TrainStation_LMA6_final_HDR.lz4" "C:\Users\mrgal\AppData\Local\Temp\frender/TrainStation_LMA6_final_HDR.lz4" 4096 0
+Running seamfixer "C:\Users\mrgal\AppData\Local\Temp\frender" "6" "TrainStation_LMA6_final_HDR.lz4"
+Running denoiser "C:\Users\mrgal\AppData\Local\Temp\frender/TrainStation_LMA3_final_HDR.lz4" "C:\Users\mrgal\AppData\Local\Temp\frender/TrainStation_LMA3_final_HDR.lz4" 4096 0
+Running seamfixer "C:\Users\mrgal\AppData\Local\Temp\frender" "3" "TrainStation_LMA3_final_HDR.lz4"
+Running denoiser "C:\Users\mrgal\AppData\Local\Temp\frender/TrainStation_LMA4_final_HDR.lz4" "C:\Users\mrgal\AppData\Local\Temp\frender/TrainStation_LMA4_final_HDR.lz4" 4096 0
+Running seamfixer "C:\Users\mrgal\AppData\Local\Temp\frender" "4" "TrainStation_LMA4_final_HDR.lz4"
+Running denoiser "C:\Users\mrgal\AppData\Local\Temp\frender/TrainStation_LMA2_final_HDR.lz4" "C:\Users\mrgal\AppData\Local\Temp\frender/TrainStation_LMA2_final_HDR.lz4" 4096 0
+Running seamfixer "C:\Users\mrgal\AppData\Local\Temp\frender" "2" "TrainStation_LMA2_final_HDR.lz4"
+Running denoiser "C:\Users\mrgal\AppData\Local\Temp\frender/TrainStation_LMA1_final_HDR.lz4" "C:\Users\mrgal\AppData\Local\Temp\frender/TrainStation_LMA1_final_HDR.lz4" 4096 0
+Running seamfixer "C:\Users\mrgal\AppData\Local\Temp\frender" "1" "TrainStation_LMA1_final_HDR.lz4"
+Running denoiser "C:\Users\mrgal\AppData\Local\Temp\frender/TrainStation_LM0_final_HDR.lz4" "C:\Users\mrgal\AppData\Local\Temp\frender/TrainStation_LM0_final_HDR.lz4" 4096 0
+Running seamfixer "C:\Users\mrgal\AppData\Local\Temp\frender" "0" "TrainStation_LM0_final_HDR.lz4"
+Running halffloat2hdr "C:\Users\mrgal\AppData\Local\Temp\frender/TrainStation_LMA5_final_HDR.lz4" "C:/Escritorio/Trabajo/ProyectosProfesionales/Videojuegos/Unity/Proyecto/Assets/BakeryLightmaps/TrainStation_LMA5_final.hdr"
+Running halffloat2hdr "C:\Users\mrgal\AppData\Local\Temp\frender/TrainStation_LMA7_final_HDR.lz4" "C:/Escritorio/Trabajo/ProyectosProfesionales/Videojuegos/Unity/Proyecto/Assets/BakeryLightmaps/TrainStation_LMA7_final.hdr"
+Running halffloat2hdr "C:\Users\mrgal\AppData\Local\Temp\frender/TrainStation_LMA6_final_HDR.lz4" "C:/Escritorio/Trabajo/ProyectosProfesionales/Videojuegos/Unity/Proyecto/Assets/BakeryLightmaps/TrainStation_LMA6_final.hdr"
+Running halffloat2hdr "C:\Users\mrgal\AppData\Local\Temp\frender/TrainStation_LMA3_final_HDR.lz4" "C:/Escritorio/Trabajo/ProyectosProfesionales/Videojuegos/Unity/Proyecto/Assets/BakeryLightmaps/TrainStation_LMA3_final.hdr"
+Running halffloat2hdr "C:\Users\mrgal\AppData\Local\Temp\frender/TrainStation_LMA4_final_HDR.lz4" "C:/Escritorio/Trabajo/ProyectosProfesionales/Videojuegos/Unity/Proyecto/Assets/BakeryLightmaps/TrainStation_LMA4_final.hdr"
+Running halffloat2hdr "C:\Users\mrgal\AppData\Local\Temp\frender/TrainStation_LMA2_final_HDR.lz4" "C:/Escritorio/Trabajo/ProyectosProfesionales/Videojuegos/Unity/Proyecto/Assets/BakeryLightmaps/TrainStation_LMA2_final.hdr"
+Running halffloat2hdr "C:\Users\mrgal\AppData\Local\Temp\frender/TrainStation_LMA1_final_HDR.lz4" "C:/Escritorio/Trabajo/ProyectosProfesionales/Videojuegos/Unity/Proyecto/Assets/BakeryLightmaps/TrainStation_LMA1_final.hdr"
+Running halffloat2hdr "C:\Users\mrgal\AppData\Local\Temp\frender/TrainStation_LM0_final_HDR.lz4" "C:/Escritorio/Trabajo/ProyectosProfesionales/Videojuegos/Unity/Proyecto/Assets/BakeryLightmaps/TrainStation_LM0_final.hdr"
+Loaded vertex shader: quad.vso
+Loaded pixel shader: skyOutput.pso
+Loaded pixel shader: cookieOutput.pso
+initShaders done
+initScene done
+Done
+Rendering UV GBuffer for TrainStation_LM0 51
+RGBA32F...RGBA8...RGBA8_SRGB...RGBA16F...states...
+Rendering UV normal...
+Rendering faceted UV normal...
+Rendering UV pos...
+Rendering smooth UV pos...
+Rendering UV GBuffer for TrainStation_LMA1 51
+RGBA32F...RGBA8...RGBA8_SRGB...RGBA16F...states...
+Rendering UV normal...
+Rendering faceted UV normal...
+Rendering UV pos...
+Rendering smooth UV pos...
+Rendering UV GBuffer for TrainStation_LMA2 51
+RGBA32F...RGBA8...RGBA8_SRGB...RGBA16F...states...
+Rendering UV normal...
+Rendering faceted UV normal...
+Rendering UV pos...
+Rendering smooth UV pos...
+Rendering UV GBuffer for TrainStation_LMA3 51
+RGBA32F...RGBA8...RGBA8_SRGB...RGBA16F...states...
+Rendering UV normal...
+Rendering faceted UV normal...
+Rendering UV pos...
+Rendering smooth UV pos...
+Rendering UV GBuffer for TrainStation_LMA4 51
+RGBA32F...RGBA8...RGBA8_SRGB...RGBA16F...states...
+Rendering UV normal...
+Rendering faceted UV normal...
+Rendering UV pos...
+Rendering smooth UV pos...
+Rendering UV GBuffer for TrainStation_LMA5 51
+RGBA32F...RGBA8...RGBA8_SRGB...RGBA16F...states...
+Rendering UV normal...
+Rendering faceted UV normal...
+Rendering UV pos...
+Rendering smooth UV pos...
+Rendering UV GBuffer for TrainStation_LMA6 51
+RGBA32F...RGBA8...RGBA8_SRGB...RGBA16F...states...
+Rendering UV normal...
+Rendering faceted UV normal...
+Rendering UV pos...
+Rendering smooth UV pos...
+Rendering UV GBuffer for TrainStation_LMA7 51
+RGBA32F...RGBA8...RGBA8_SRGB...RGBA16F...states...
+Rendering UV normal...
+Rendering faceted UV normal...
+Rendering UV pos...
+Rendering smooth UV pos...
+Done
+Done
+Running ftrace fixpos12 "C:\Users\mrgal\AppData\Local\Temp\frender" "uvpos_TrainStation_LMA5.lz4" 2 0 5 0
+Running ftrace fixpos12 "C:\Users\mrgal\AppData\Local\Temp\frender" "uvpos_TrainStation_LMA7.lz4" 2 0 7 0
+Running ftrace fixpos12 "C:\Users\mrgal\AppData\Local\Temp\frender" "uvpos_TrainStation_LMA6.lz4" 2 0 6 0
+Running ftrace fixpos12 "C:\Users\mrgal\AppData\Local\Temp\frender" "uvpos_TrainStation_LMA3.lz4" 2 0 3 0
+Running ftrace fixpos12 "C:\Users\mrgal\AppData\Local\Temp\frender" "uvpos_TrainStation_LMA4.lz4" 2 0 4 0
+Running ftrace fixpos12 "C:\Users\mrgal\AppData\Local\Temp\frender" "uvpos_TrainStation_LMA2.lz4" 2 0 2 0
+Running ftrace fixpos12 "C:\Users\mrgal\AppData\Local\Temp\frender" "uvpos_TrainStation_LMA1.lz4" 2 0 1 0
+Running ftrace fixpos12 "C:\Users\mrgal\AppData\Local\Temp\frender" "uvpos_TrainStation_LM0.lz4" 2 0 0 0
+Running ftrace batchpointlight "C:\Users\mrgal\AppData\Local\Temp\frender" "PointBatch_5_0_45" 4 0 5 batchpointlight_5_0_45.bin
+Running ftrace sun "C:\Users\mrgal\AppData\Local\Temp\frender" "light_-217659477_5" 4 0 5 direct0.bin
+Running ftrace sun "C:\Users\mrgal\AppData\Local\Temp\frender" "light_-1171822467_5" 4 0 5 direct1.bin
+Running ftrace addmul "C:\Users\mrgal\AppData\Local\Temp\frender" "TrainStation_LMA5" 4 0 5 comp_5.bin
+Running ftrace sun "C:\Users\mrgal\AppData\Local\Temp\frender" "light_-217659477_7" 4 0 7 direct0.bin
+Running ftrace sun "C:\Users\mrgal\AppData\Local\Temp\frender" "light_-1171822467_7" 4 0 7 direct1.bin
+Running ftrace addmul "C:\Users\mrgal\AppData\Local\Temp\frender" "TrainStation_LMA7" 4 0 7 comp_7.bin
+Running ftrace batchpointlight "C:\Users\mrgal\AppData\Local\Temp\frender" "PointBatch_6_0_45" 4 0 6 batchpointlight_6_0_45.bin
+Running ftrace sun "C:\Users\mrgal\AppData\Local\Temp\frender" "light_-217659477_6" 4 0 6 direct0.bin
+Running ftrace sun "C:\Users\mrgal\AppData\Local\Temp\frender" "light_-1171822467_6" 4 0 6 direct1.bin
+Running ftrace addmul "C:\Users\mrgal\AppData\Local\Temp\frender" "TrainStation_LMA6" 4 0 6 comp_6.bin
+Running ftrace batchpointlight "C:\Users\mrgal\AppData\Local\Temp\frender" "PointBatch_3_0_45" 4 0 3 batchpointlight_3_0_45.bin
+Running ftrace sun "C:\Users\mrgal\AppData\Local\Temp\frender" "light_-217659477_3" 4 0 3 direct0.bin
+Running ftrace sun "C:\Users\mrgal\AppData\Local\Temp\frender" "light_-1171822467_3" 4 0 3 direct1.bin
+Running ftrace addmul "C:\Users\mrgal\AppData\Local\Temp\frender" "TrainStation_LMA3" 4 0 3 comp_3.bin
+Running ftrace batchpointlight "C:\Users\mrgal\AppData\Local\Temp\frender" "PointBatch_4_0_45" 4 0 4 batchpointlight_4_0_45.bin
+Running ftrace sun "C:\Users\mrgal\AppData\Local\Temp\frender" "light_-217659477_4" 4 0 4 direct0.bin
+Running ftrace sun "C:\Users\mrgal\AppData\Local\Temp\frender" "light_-1171822467_4" 4 0 4 direct1.bin
+Running ftrace addmul "C:\Users\mrgal\AppData\Local\Temp\frender" "TrainStation_LMA4" 4 0 4 comp_4.bin
+Running ftrace batchpointlight "C:\Users\mrgal\AppData\Local\Temp\frender" "PointBatch_2_0_45" 4 0 2 batchpointlight_2_0_45.bin
+Running ftrace sun "C:\Users\mrgal\AppData\Local\Temp\frender" "light_-217659477_2" 4 0 2 direct0.bin
+Running ftrace sun "C:\Users\mrgal\AppData\Local\Temp\frender" "light_-1171822467_2" 4 0 2 direct1.bin
+Running ftrace addmul "C:\Users\mrgal\AppData\Local\Temp\frender" "TrainStation_LMA2" 4 0 2 comp_2.bin
+Running ftrace batchpointlight "C:\Users\mrgal\AppData\Local\Temp\frender" "PointBatch_1_0_45" 4 0 1 batchpointlight_1_0_45.bin
+Running ftrace sun "C:\Users\mrgal\AppData\Local\Temp\frender" "light_-217659477_1" 4 0 1 direct0.bin
+Running ftrace sun "C:\Users\mrgal\AppData\Local\Temp\frender" "light_-1171822467_1" 4 0 1 direct1.bin
+Running ftrace addmul "C:\Users\mrgal\AppData\Local\Temp\frender" "TrainStation_LMA1" 4 0 1 comp_1.bin
+Running ftrace sun "C:\Users\mrgal\AppData\Local\Temp\frender" "light_-217659477_0" 4 0 0 direct0.bin
+Running ftrace sun "C:\Users\mrgal\AppData\Local\Temp\frender" "light_-1171822467_0" 4 0 0 direct1.bin
+Running ftrace addmul "C:\Users\mrgal\AppData\Local\Temp\frender" "TrainStation_LM0" 4 0 0 comp_0.bin
+Running ftrace texgi "C:\Users\mrgal\AppData\Local\Temp\frender" "TrainStation_LMA5_diffuse" 4 16 5 "gi_TrainStation_LMA50.bin" "TrainStation_LMA5_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\mrgal\AppData\Local\Temp\frender" "TrainStation_LMA7_diffuse" 4 16 7 "gi_TrainStation_LMA70.bin" "TrainStation_LMA7_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\mrgal\AppData\Local\Temp\frender" "TrainStation_LMA6_diffuse" 4 16 6 "gi_TrainStation_LMA60.bin" "TrainStation_LMA6_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\mrgal\AppData\Local\Temp\frender" "TrainStation_LMA3_diffuse" 4 16 3 "gi_TrainStation_LMA30.bin" "TrainStation_LMA3_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\mrgal\AppData\Local\Temp\frender" "TrainStation_LMA4_diffuse" 4 16 4 "gi_TrainStation_LMA40.bin" "TrainStation_LMA4_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\mrgal\AppData\Local\Temp\frender" "TrainStation_LMA2_diffuse" 4 16 2 "gi_TrainStation_LMA20.bin" "TrainStation_LMA2_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\mrgal\AppData\Local\Temp\frender" "TrainStation_LMA1_diffuse" 4 16 1 "gi_TrainStation_LMA10.bin" "TrainStation_LMA1_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\mrgal\AppData\Local\Temp\frender" "TrainStation_LM0_diffuse" 4 16 0 "gi_TrainStation_LM00.bin" "TrainStation_LM0_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\mrgal\AppData\Local\Temp\frender" "TrainStation_LMA5_diffuse" 4 16 5 "gi_TrainStation_LMA51.bin" "TrainStation_LMA5_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\mrgal\AppData\Local\Temp\frender" "TrainStation_LMA7_diffuse" 4 16 7 "gi_TrainStation_LMA71.bin" "TrainStation_LMA7_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\mrgal\AppData\Local\Temp\frender" "TrainStation_LMA6_diffuse" 4 16 6 "gi_TrainStation_LMA61.bin" "TrainStation_LMA6_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\mrgal\AppData\Local\Temp\frender" "TrainStation_LMA3_diffuse" 4 16 3 "gi_TrainStation_LMA31.bin" "TrainStation_LMA3_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\mrgal\AppData\Local\Temp\frender" "TrainStation_LMA4_diffuse" 4 16 4 "gi_TrainStation_LMA41.bin" "TrainStation_LMA4_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\mrgal\AppData\Local\Temp\frender" "TrainStation_LMA2_diffuse" 4 16 2 "gi_TrainStation_LMA21.bin" "TrainStation_LMA2_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\mrgal\AppData\Local\Temp\frender" "TrainStation_LMA1_diffuse" 4 16 1 "gi_TrainStation_LMA11.bin" "TrainStation_LMA1_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\mrgal\AppData\Local\Temp\frender" "TrainStation_LM0_diffuse" 4 16 0 "gi_TrainStation_LM01.bin" "TrainStation_LM0_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\mrgal\AppData\Local\Temp\frender" "TrainStation_LMA5_diffuse" 4 16 5 "gi_TrainStation_LMA52.bin" "TrainStation_LMA5_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\mrgal\AppData\Local\Temp\frender" "TrainStation_LMA7_diffuse" 4 16 7 "gi_TrainStation_LMA72.bin" "TrainStation_LMA7_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\mrgal\AppData\Local\Temp\frender" "TrainStation_LMA6_diffuse" 4 16 6 "gi_TrainStation_LMA62.bin" "TrainStation_LMA6_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\mrgal\AppData\Local\Temp\frender" "TrainStation_LMA3_diffuse" 4 16 3 "gi_TrainStation_LMA32.bin" "TrainStation_LMA3_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\mrgal\AppData\Local\Temp\frender" "TrainStation_LMA4_diffuse" 4 16 4 "gi_TrainStation_LMA42.bin" "TrainStation_LMA4_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\mrgal\AppData\Local\Temp\frender" "TrainStation_LMA2_diffuse" 4 16 2 "gi_TrainStation_LMA22.bin" "TrainStation_LMA2_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\mrgal\AppData\Local\Temp\frender" "TrainStation_LMA1_diffuse" 4 16 1 "gi_TrainStation_LMA12.bin" "TrainStation_LMA1_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\mrgal\AppData\Local\Temp\frender" "TrainStation_LM0_diffuse" 4 16 0 "gi_TrainStation_LM02.bin" "TrainStation_LM0_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\mrgal\AppData\Local\Temp\frender" "TrainStation_LMA5_diffuse" 4 16 5 "gi_TrainStation_LMA53.bin" "TrainStation_LMA5_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\mrgal\AppData\Local\Temp\frender" "TrainStation_LMA7_diffuse" 4 16 7 "gi_TrainStation_LMA73.bin" "TrainStation_LMA7_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\mrgal\AppData\Local\Temp\frender" "TrainStation_LMA6_diffuse" 4 16 6 "gi_TrainStation_LMA63.bin" "TrainStation_LMA6_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\mrgal\AppData\Local\Temp\frender" "TrainStation_LMA3_diffuse" 4 16 3 "gi_TrainStation_LMA33.bin" "TrainStation_LMA3_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\mrgal\AppData\Local\Temp\frender" "TrainStation_LMA4_diffuse" 4 16 4 "gi_TrainStation_LMA43.bin" "TrainStation_LMA4_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\mrgal\AppData\Local\Temp\frender" "TrainStation_LMA2_diffuse" 4 16 2 "gi_TrainStation_LMA23.bin" "TrainStation_LMA2_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\mrgal\AppData\Local\Temp\frender" "TrainStation_LMA1_diffuse" 4 16 1 "gi_TrainStation_LMA13.bin" "TrainStation_LMA1_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\mrgal\AppData\Local\Temp\frender" "TrainStation_LM0_diffuse" 4 16 0 "gi_TrainStation_LM03.bin" "TrainStation_LM0_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\mrgal\AppData\Local\Temp\frender" "TrainStation_LMA5_final" 4 16 5 "gi_TrainStation_LMA54.bin" "TrainStation_LMA5_lights_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\mrgal\AppData\Local\Temp\frender" "TrainStation_LMA7_final" 4 16 7 "gi_TrainStation_LMA74.bin" "TrainStation_LMA7_lights_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\mrgal\AppData\Local\Temp\frender" "TrainStation_LMA6_final" 4 16 6 "gi_TrainStation_LMA64.bin" "TrainStation_LMA6_lights_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\mrgal\AppData\Local\Temp\frender" "TrainStation_LMA3_final" 4 16 3 "gi_TrainStation_LMA34.bin" "TrainStation_LMA3_lights_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\mrgal\AppData\Local\Temp\frender" "TrainStation_LMA4_final" 4 16 4 "gi_TrainStation_LMA44.bin" "TrainStation_LMA4_lights_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\mrgal\AppData\Local\Temp\frender" "TrainStation_LMA2_final" 4 16 2 "gi_TrainStation_LMA24.bin" "TrainStation_LMA2_lights_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\mrgal\AppData\Local\Temp\frender" "TrainStation_LMA1_final" 4 16 1 "gi_TrainStation_LMA14.bin" "TrainStation_LMA1_lights_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\mrgal\AppData\Local\Temp\frender" "TrainStation_LM0_final" 4 16 0 "gi_TrainStation_LM04.bin" "TrainStation_LM0_lights_HDR.lz4" vbTraceTex.bin
+Running denoiser "C:\Users\mrgal\AppData\Local\Temp\frender/TrainStation_LMA5_final_HDR.lz4" "C:\Users\mrgal\AppData\Local\Temp\frender/TrainStation_LMA5_final_HDR.lz4" 4096 0
+Running seamfixer "C:\Users\mrgal\AppData\Local\Temp\frender" "5" "TrainStation_LMA5_final_HDR.lz4"
+Running denoiser "C:\Users\mrgal\AppData\Local\Temp\frender/TrainStation_LMA7_final_HDR.lz4" "C:\Users\mrgal\AppData\Local\Temp\frender/TrainStation_LMA7_final_HDR.lz4" 2048 0
+Running seamfixer "C:\Users\mrgal\AppData\Local\Temp\frender" "7" "TrainStation_LMA7_final_HDR.lz4"
+Running denoiser "C:\Users\mrgal\AppData\Local\Temp\frender/TrainStation_LMA6_final_HDR.lz4" "C:\Users\mrgal\AppData\Local\Temp\frender/TrainStation_LMA6_final_HDR.lz4" 4096 0
+Running seamfixer "C:\Users\mrgal\AppData\Local\Temp\frender" "6" "TrainStation_LMA6_final_HDR.lz4"
+Running denoiser "C:\Users\mrgal\AppData\Local\Temp\frender/TrainStation_LMA3_final_HDR.lz4" "C:\Users\mrgal\AppData\Local\Temp\frender/TrainStation_LMA3_final_HDR.lz4" 4096 0
+Running seamfixer "C:\Users\mrgal\AppData\Local\Temp\frender" "3" "TrainStation_LMA3_final_HDR.lz4"
+Running denoiser "C:\Users\mrgal\AppData\Local\Temp\frender/TrainStation_LMA4_final_HDR.lz4" "C:\Users\mrgal\AppData\Local\Temp\frender/TrainStation_LMA4_final_HDR.lz4" 4096 0
+Running seamfixer "C:\Users\mrgal\AppData\Local\Temp\frender" "4" "TrainStation_LMA4_final_HDR.lz4"
+Running denoiser "C:\Users\mrgal\AppData\Local\Temp\frender/TrainStation_LMA2_final_HDR.lz4" "C:\Users\mrgal\AppData\Local\Temp\frender/TrainStation_LMA2_final_HDR.lz4" 4096 0
+Running seamfixer "C:\Users\mrgal\AppData\Local\Temp\frender" "2" "TrainStation_LMA2_final_HDR.lz4"
+Running denoiser "C:\Users\mrgal\AppData\Local\Temp\frender/TrainStation_LMA1_final_HDR.lz4" "C:\Users\mrgal\AppData\Local\Temp\frender/TrainStation_LMA1_final_HDR.lz4" 4096 0
+Running seamfixer "C:\Users\mrgal\AppData\Local\Temp\frender" "1" "TrainStation_LMA1_final_HDR.lz4"
+Running denoiser "C:\Users\mrgal\AppData\Local\Temp\frender/TrainStation_LM0_final_HDR.lz4" "C:\Users\mrgal\AppData\Local\Temp\frender/TrainStation_LM0_final_HDR.lz4" 4096 0
+Running seamfixer "C:\Users\mrgal\AppData\Local\Temp\frender" "0" "TrainStation_LM0_final_HDR.lz4"
+Running halffloat2hdr "C:\Users\mrgal\AppData\Local\Temp\frender/TrainStation_LMA5_final_HDR.lz4" "C:/Escritorio/Trabajo/ProyectosProfesionales/Videojuegos/Unity/Proyecto/Assets/BakeryLightmaps/TrainStation_LMA5_final.hdr"
+Running halffloat2hdr "C:\Users\mrgal\AppData\Local\Temp\frender/TrainStation_LMA7_final_HDR.lz4" "C:/Escritorio/Trabajo/ProyectosProfesionales/Videojuegos/Unity/Proyecto/Assets/BakeryLightmaps/TrainStation_LMA7_final.hdr"
+Running halffloat2hdr "C:\Users\mrgal\AppData\Local\Temp\frender/TrainStation_LMA6_final_HDR.lz4" "C:/Escritorio/Trabajo/ProyectosProfesionales/Videojuegos/Unity/Proyecto/Assets/BakeryLightmaps/TrainStation_LMA6_final.hdr"
+Running halffloat2hdr "C:\Users\mrgal\AppData\Local\Temp\frender/TrainStation_LMA3_final_HDR.lz4" "C:/Escritorio/Trabajo/ProyectosProfesionales/Videojuegos/Unity/Proyecto/Assets/BakeryLightmaps/TrainStation_LMA3_final.hdr"
+Running halffloat2hdr "C:\Users\mrgal\AppData\Local\Temp\frender/TrainStation_LMA4_final_HDR.lz4" "C:/Escritorio/Trabajo/ProyectosProfesionales/Videojuegos/Unity/Proyecto/Assets/BakeryLightmaps/TrainStation_LMA4_final.hdr"
+Running halffloat2hdr "C:\Users\mrgal\AppData\Local\Temp\frender/TrainStation_LMA2_final_HDR.lz4" "C:/Escritorio/Trabajo/ProyectosProfesionales/Videojuegos/Unity/Proyecto/Assets/BakeryLightmaps/TrainStation_LMA2_final.hdr"
+Running halffloat2hdr "C:\Users\mrgal\AppData\Local\Temp\frender/TrainStation_LMA1_final_HDR.lz4" "C:/Escritorio/Trabajo/ProyectosProfesionales/Videojuegos/Unity/Proyecto/Assets/BakeryLightmaps/TrainStation_LMA1_final.hdr"
+Running halffloat2hdr "C:\Users\mrgal\AppData\Local\Temp\frender/TrainStation_LM0_final_HDR.lz4" "C:/Escritorio/Trabajo/ProyectosProfesionales/Videojuegos/Unity/Proyecto/Assets/BakeryLightmaps/TrainStation_LM0_final.hdr"
+Symbol file LoadedFromMemory doesn't match image C:\Escritorio\Trabajo\ProyectosProfesionales\Videojuegos\Unity\Proyecto\Library\PackageCache\com.unity.visualscripting@1.8.0\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\Escritorio\Trabajo\ProyectosProfesionales\Videojuegos\Unity\Proyecto\Library\PackageCache\com.unity.visualscripting@1.8.0\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Symbol file LoadedFromMemory doesn't match image C:\Escritorio\Trabajo\ProyectosProfesionales\Videojuegos\Unity\Proyecto\Library\PackageCache\com.unity.visualscripting@1.8.0\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\Escritorio\Trabajo\ProyectosProfesionales\Videojuegos\Unity\Proyecto\Library\PackageCache\com.unity.visualscripting@1.8.0\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Symbol file LoadedFromMemory doesn't match image C:\Escritorio\Trabajo\ProyectosProfesionales\Videojuegos\Unity\Proyecto\Library\PackageCache\com.unity.visualscripting@1.8.0\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\Escritorio\Trabajo\ProyectosProfesionales\Videojuegos\Unity\Proyecto\Library\PackageCache\com.unity.visualscripting@1.8.0\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll

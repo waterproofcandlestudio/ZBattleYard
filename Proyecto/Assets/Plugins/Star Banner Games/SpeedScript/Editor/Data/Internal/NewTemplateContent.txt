@@ -1,0 +1,18 @@
+using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+
+namespace #NAMESPACE#
+{
+	public class #SCRIPTNAME# : MonoBehaviour
+	{
+		//1. Adjust this template however you need.
+		//2. When you are finished editing, just save and return to Unity.
+		//3. Right click in the project window -> Create/C# Templates/TemplateName
+		//4. It should create a script using this template.
+		
+		//TIP:
+		//If for whatever reason you don't want namespaces,
+		//the "NAMESPACE" keyword can be removed without problems.
+	}
+}

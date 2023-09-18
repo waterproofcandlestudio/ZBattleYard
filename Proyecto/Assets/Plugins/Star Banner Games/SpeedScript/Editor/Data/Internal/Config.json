@@ -1,0 +1,8 @@
+{
+    "DisplayedInstallDialog": true,
+    "DefaultNamespace": "MakArt.ZBattleYard",
+    "IgnoreFolder": "Scripts",
+    "UseFolderNames": true,
+    "LastFolderOnly": true,
+    "UsePlayerSettings": true
+}

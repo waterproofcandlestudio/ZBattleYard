@@ -1,0 +1,20 @@
+using System.Collections;
+using System.Collections.Generic;
+using UnityEditor;
+
+namespace #NAMESPACE#
+{
+	public class #SCRIPTNAME# : EditorWindow
+	{
+		[MenuItem("Window/MyCompany/MyTool/MyEditorWindow")]
+		public static void ShowWindow()
+		{
+			GetWindow<#SCRIPTNAME#>("MyEditorWindow");
+		}
+
+		private void OnGUI()
+		{
+
+		}
+	}
+}

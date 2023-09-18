@@ -1,0 +1,12 @@
+using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+
+namespace #NAMESPACE#
+{
+	[CreateAssetMenu(fileName = "NewObj", menuName = "ScriptableObjects/#SCRIPTNAME#")]
+	public class #SCRIPTNAME# : ScriptableObject
+	{
+		
+	}
+}

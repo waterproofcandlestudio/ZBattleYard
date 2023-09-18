@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6d1b5956d8983334b9e7ef112e6bd2e6, type: 3}
+  m_Name: AmericanHeavyMachinegun
+  m_EditorClassIdentifier: 
+  name: American Heavy Machinegun
+  description: 
+  icon: {fileID: 0}
+  prefab: {fileID: 2151629695179030290, guid: e8dd8e4bf164d884e98f5859238ec998, type: 3}
+  muzzleFlashParticles: {fileID: 477559070172216739, guid: e56646c49b211274298be4d95b5a9257,
+    type: 3}
+  damage: 300
+  magazineSize: 100
+  storedAmmo: 500
+  reloadTime: 4
+  fireRate: 0.05
+  range: 100
+  weaponType: 2
+  weaponPrice: 3000
+  ammoPrice: 3500
+  shotSound: {fileID: 8300000, guid: 52f095e0447216b4da7f95cfd650d69c, type: 3}
+  reloadSound: {fileID: 8300000, guid: 6cbd73a80d9caa14db590dd863307c41, type: 3}
+  wepAppearingSound: {fileID: 0}
+  wepSaveSound: {fileID: 0}
